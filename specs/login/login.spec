@@ -13,3 +13,4 @@ anasayfadan dosya çeksin
 * değişiklik
 * çalıştı
 *deneme
+* proje değişiklik
