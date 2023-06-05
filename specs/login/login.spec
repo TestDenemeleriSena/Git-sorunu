@@ -12,3 +12,4 @@ anasayfadan dosya çeksin
 * ekledim
 * değişiklik
 * çalıştı
+*deneme
