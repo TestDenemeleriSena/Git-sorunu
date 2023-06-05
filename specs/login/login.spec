@@ -10,3 +10,4 @@ anasayfadan dosya çeksin
 * senaryo eklensin
 * masterda ol
 * ekleme daha yapılsın
+* bir eklemee daha olacak
