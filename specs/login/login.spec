@@ -8,4 +8,3 @@ anasayfadan dosya çeksin
 * "3" saniye bekle
 * "2" saniye bekle
 * senaryo eklensin
-* "2" saniye bekle
