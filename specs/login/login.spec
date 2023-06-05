@@ -10,4 +10,5 @@ anasayfadan dosya çeksin
 * senaryo eklensin
 * ekledim senaryo
 * ekledim
+* değişiklik
 
