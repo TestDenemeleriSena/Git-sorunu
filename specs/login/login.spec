@@ -11,4 +11,4 @@ anasayfadan dosya çeksin
 * ekledim senaryo
 * ekledim
 * değişiklik
-
+* çalıştı
