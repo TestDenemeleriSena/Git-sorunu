@@ -11,3 +11,4 @@ Scenario Heading
 * neden ekle
 * yap değişiklik 
 * stabil olamama durumu
+* nasıl yapılır sorusu
