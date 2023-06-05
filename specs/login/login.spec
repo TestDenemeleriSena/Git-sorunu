@@ -11,3 +11,4 @@ anasayfadan dosya çeksin
 * masterda ol
 * ekleme daha yapılsın
 * bir eklemee daha olacak
+* yapıyor buişi 
