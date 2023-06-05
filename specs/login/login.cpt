@@ -9,6 +9,11 @@ This is a concept file with following syntax for each concept.
 * "CerezKabulEtBtn" elementi görünürse, "CerezKabulEtBtn" elementine tıkla
 * "CerezKabulEtBtn" elementinin görünür olmadığı kontrol edilir
 
+# senaryo eklensin
+* "CerezKabulEtBtn" elementine tıkla
+
+
+
 # <username> kullanıcı adı ve <password> şifresi ile üyelik girişi yapılır.
 * waitPageLoadCompleteJs
 * "baslikgirisyapBtn" elementinin görünür olması kontrol edilir
