@@ -7,8 +7,3 @@ anasayfadan dosya çeksin
 * Ana sayfadan Nps tıklanır.
 * "3" saniye bekle
 * "2" saniye bekle
-* senaryo eklensin
-* masterda ol
-* ekleme daha yapılsın
-* bir eklemee daha olacak
-* yapıyor buişi 
