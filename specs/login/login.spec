@@ -9,4 +9,3 @@ anasayfadan dosya çeksin
 * "2" saniye bekle
 * senaryo eklensin
 * "2" saniye bekle
-* gitte değişiklik yaptım
