@@ -9,3 +9,4 @@ Scenario Heading
 ----------------
 * "3" saniye bekle
 * neden ekle
+* yap değişiklik 
