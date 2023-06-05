@@ -2,7 +2,7 @@ Specification Heading
 =====================
 
 senaryo ekle
-Scenario Heading
+anasayfadan dosya çeksin
 ----------------
 * Ana sayfadan Nps tıklanır.
 * "3" saniye bekle
