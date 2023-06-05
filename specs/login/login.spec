@@ -9,3 +9,4 @@ anasayfadan dosya çeksin
 * "2" saniye bekle
 * senaryo eklensin
 * ekledim senaryo
+* ekledim
