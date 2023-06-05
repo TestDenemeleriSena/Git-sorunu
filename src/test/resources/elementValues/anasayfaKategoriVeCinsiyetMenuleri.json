@@ -1,0 +1,198 @@
+[
+  {
+    "key": "headerImg",
+    "value": "img[class='header-logo']",
+    "type" : "css"
+  },
+  {
+    "key": "navMenu",
+    "value": "div[class='header-bottom container']",
+    "type": "css"
+  },
+  {
+    "key": "navMenuCategoryBtn",
+    "value": "ul[class='nav nav-pills header-nav  hidden-xs lazy']>li",
+    "type": "css"
+  },
+  {
+    "key": "navMenuSubCategoryBtn",
+    "value": "data-test[id='open-to-header-top-submenu']",
+    "type": "css"
+  },
+  {
+    "key": "anasayfaNps",
+    "value": "img[src='/pub/assets/common/nps/images/nps.svg']",
+    "type": "css"
+  },
+  {
+    "key": "anasayfaNpsOlumsuzBtn",
+    "value": "img[src='/pub/assets/common/nps/images/1.svg']",
+    "type": "css"
+  },
+  {
+    "key": "anasayfaNpsNotrBtn",
+    "value": "img[src='/pub/assets/common/nps/images/2.svg']",
+    "type": "css"
+  },
+  {
+    "key": "anasayfaNpsOlumluBtn",
+    "value": "img[src='/pub/assets/common/nps/images/3.svg']",
+    "type": "css"
+  },
+  {
+    "key": "anasayfaNpsCheckBox",
+    "value": "label[class='nps-form__label nps-checkbox checkbox']",
+    "type": "css"
+  },
+  {
+    "key": "anasayfaNpsTextArea",
+    "value": "textarea[class='nsp-free-text']",
+    "type": "css"
+  },
+  {
+    "key": "anasayfaNpsGonderBtn",
+    "value": "button[class='js-nps-form-button btn btn-primary nps-form__button mt-3']",
+    "type": "css"
+  },
+  {
+    "key": "anasayfaKadinKategoriBtn",
+    "value": "a[href='/kadin']",
+    "type": "css"
+  },
+  {
+    "key": "anasayfaErkekKategoriRandomUrunSecimImg",
+    "value": "div.product-image-wrapper",
+    "type": "css"
+  },
+
+  {
+    "key": "anasayfaErkekKategoriBtn",
+    "value": "//a[text()='Erkek']",
+    "type": "xpath"
+  },
+
+  {
+    "key": "anasayfaÇocukKategoriBtn",
+    "value": "//span[text()='Çocuk']",
+    "type": "xpath"
+  },
+  {
+    "key": "ayakkabiKategoriBtn",
+    "value": "(//a[@data-test='open-to-header-nav-menu']/span)[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sporKategoriBtn",
+    "value": "(//a[@data-test='open-to-header-nav-menu']/span)[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "giyimKategoriBtn",
+    "value": "(//a[@data-test='open-to-header-nav-menu']/span)[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "cantaVeAksesuarKategoriBtn",
+    "value": "(//a[@data-test='open-to-header-nav-menu']/span)[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "markalarKategoriBtn",
+    "value": "(//a[@data-test='open-to-header-nav-menu']/span)[5]",
+    "type": "xpath"
+  },
+  {
+  "key": "indirimKategoriBtn",
+  "value": "(//a[@data-test='open-to-header-nav-menu']/span)[6]",
+  "type": "xpath"
+  },
+  {
+    "key": "tumKategorilerKategoriBtn",
+    "value": "(//a[@data-test='open-to-header-nav-menu']/span)[7]",
+    "type": "xpath"
+  },
+  {
+    "key": "ayakkabiKategoriHizliMenuContainerBarCtrl",
+    "value": "(//div[@class='container'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "sporKategoriHizliMenuContainerBarCtrl",
+    "value": "(//div[@class='container'])[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "giyimKategoriHizliMenuContainerBarCtrl",
+    "value": "(//div[@class='container'])[5]",
+    "type": "xpath"
+  },
+  {
+    "key": "cantaVeAksesuarKategoriHizliMenuContainerBarCtrl",
+    "value": "(//div[@class='container'])[6]",
+    "type": "xpath"
+  },
+  {
+    "key": "markalarKategoriHizliMenuContainerBarCtrl",
+    "value": "(//div[@class='container'])[7]",
+    "type": "xpath"
+  },
+  {
+    "key": "indirimKategoriHizliMenuContainerBarCtrl",
+    "value": "(//div[@class='container'])[8]",
+    "type": "xpath"
+  },
+  {
+    "key": "tumKategorilerKategoriHizliMenuContainerBarCtrl",
+    "value": "(//div[@class='container'])[9]",
+    "type": "xpath"
+  },
+  {
+    "key": "ayakkabiKategoriHizliMenudekiButonlarCtrl",
+    "value": "(//div[@class='container'])[3]/div/div/div/div/a",
+    "type": "xpath"
+  },
+  {
+    "key": "sporKategoriHizliMenudekiButonlarCtrl",
+    "value": "(//div[@class='container'])[4]/div/div/div/div/a",
+    "type": "xpath"
+  },
+  {
+    "key": "giyimKategoriHizliMenudekiButonlarCtrl",
+    "value": "(//div[@class='container'])[5]/div/div/div/div/a",
+    "type": "xpath"
+  },
+  {
+    "key": "cantaVeAksesuarKategoriHizliMenudekiButonlarCtrl",
+    "value": "(//div[@class='container'])[6]/div/div/div/div/a",
+    "type": "xpath"
+  },
+  {
+    "key": "markalarKategoriHizliMenudekiButonlarCtrl",
+    "value": "(//div[@class='container'])[7]/div/div/div/div/a",
+    "type": "xpath"
+  },{
+  "key": "indirimKategoriHizliMenudekiButonlarCtrl",
+  "value": "(//div[@class='container'])[8]/div/div/div/div/a",
+  "type": "xpath"
+},
+  {
+    "key": "tumKategorilerKategoriHizliMenudekiButonlarCtrl",
+    "value": "(//div[@class='container'])[9]/div/div/div/div/a",
+    "type": "xpath"
+  },
+  {
+    "key": "musteriHizmetleriKolayIade",
+    "value": "//a[@href='/kolay-iade']",
+    "type": "xpath"
+  },
+  {
+    "key": "musteriHizmetleriSikcaSorulanSorular",
+    "value": "//*[text()='Sıkça Sorulan Sorular']",
+    "type": "xpath"
+  },
+  {
+    "key": "musteriHizmetleriIslemRehberi",
+    "value": "//*[text()='İşlem Rehberi']",
+    "type": "xpath"
+  }
+]

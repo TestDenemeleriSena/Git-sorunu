@@ -1,0 +1,165 @@
+Created by testinium on 24.11.2021
+
+This is a concept file with following syntax for each concept.
+//Lj de Kullanıldı Başla
+
+# <username> kullanıcı adı ve <password> şifresi ile üyelik oluşturma işlemi yapılır.
+* "100" milisaniye bekle
+* waitPageLoadCompleteJs
+* "hizliMenuUyeOlBtn" elementinin görünür olması kontrol edilir
+* "hizliMenuUyeOlBtn" elementinin tıklanabilir olması kontrol edilir "20"
+* "hizliMenuUyeOlBtn" elementine tıkla
+* "bbmSifreGirisTxt" elementi görünürse, "bbmSifreGirisTxt" elementine "bbm2021" değerini yaz ve entere bas
+* "HemenUyeOlTelefonNumaranizTxt" elementinin görünür olması kontrol edilir
+* "HemenUyeOlTelefonNumaranizTxt" elementinin tıklanabilir olması kontrol edilir "20"
+* "HemenUyeOlTelefonNumaranizTxt" elementine tıkla
+* "HemenUyeOlTelefonNumaranizTxt" elementine "330000000" değerini yaz
+* "HemenUyeOlEPostaAdresiTxt" elementinin görünür olması kontrol edilir
+* "HemenUyeOlEPostaAdresiTxt" elementinin tıklanabilir olması kontrol edilir "20"
+* "HemenUyeOlEPostaAdresiTxt" elementine fake <username> mailini yaz
+* "HemenUyeOlSifreTxt" elementinin görünür olması kontrol edilir
+* "HemenUyeOlSifreTxt" elementinin tıklanabilir olması kontrol edilir "20"
+* "HemenUyeOlSifreTxt" elementine dinamik sifre yaz
+* "HemenUyeOlCinsiyetKadinBox" elementinin görünür olması kontrol edilir
+* "HemenUyeOlCinsiyetKadinBox" elementinin tıklanabilir olması kontrol edilir "20"
+* "HemenUyeOlCinsiyetKadinBox" elementine tıkla
+* "uyeOlTercihlerimeOzelChk" elementinin görünür olması kontrol edilir
+* "uyeOlTercihlerimeOzelChk" elementinin tıklanabilir olması kontrol edilir "20"
+* "uyeOlTercihlerimeOzelChk" elementine js ile tıkla
+* "HemenUyeOlUyeOlOnayBtn" elementinin görünür olması kontrol edilir
+* "HemenUyeOlUyeOlOnayBtn" elementinin tıklanabilir olması kontrol edilir "20"
+* "HemenUyeOlUyeOlOnayBtn" elementine js ile tıkla
+* "100" milisaniye bekle
+* waitPageLoadCompleteJs
+* "1200" milisaniye bekle
+ "telfNoDogrulayinOTPCtrl" elementinin görünür olması kontrol edilir "30"
+* "uyeOlTelNoDogrulayinOTPTxt" elementine "112547" değerini yaz
+* "HemenUyeOlUyeOlOTPonaylaBtn2" elementinin tıklanabilir olması kontrol edilir
+* "HemenUyeOlUyeOlOTPonaylaBtn2" elementine tıkla
+* waitPageLoadCompleteJs
+* "hesabimBtn" elementinin görünür olması kontrol edilir "30"
+* "hesabimBtn" elementinin tıklanabilir olması kontrol edilir
+
+# Sepeti onayladıktan sonra <username> kullanıcı adı ve <password> şifresi ile üyelik oluşturma işlemi yapılır.
+* "1500" milisaniye bekle
+* waitPageLoadCompleteJs
+ Şu anki url "lumberjack.com.tr/checkout/shipping" içeriyor mu
+* "yukleniyorMessageCtrl" elementinin görünür olmadığı kontrol edilir
+* "uyeOlbaslikBtn" elementinin görünür olması kontrol edilir
+* "uyeOlbaslikBtn" elementinin tıklanabilir olması kontrol edilir "30"
+* "uyeOlbaslikBtn" elementine tıkla
+* "sepetOnaySonrasiCepTelTxt" elementinin görünür olması kontrol edilir
+* "sepetOnaySonrasiCepTelTxt" elementinin tıklanabilir olması kontrol edilir "30"
+* "sepetOnaySonrasiCepTelTxt" elementine tıkla
+* "sepetOnaySonrasiCepTelTxt" elementine "330000000" değerini yaz
+* "sonradanHemenUyeOlEPostaAdresiTxt" elementinin görünür olması kontrol edilir
+* "sonradanHemenUyeOlEPostaAdresiTxt" elementinin tıklanabilir olması kontrol edilir "30"
+* "sonradanHemenUyeOlEPostaAdresiTxt" elementine fake <username> mailini yaz
+* "sonradanHemenUyeOlSifreTxt" elementinin görünür olması kontrol edilir
+* "sonradanHemenUyeOlSifreTxt" elementinin tıklanabilir olması kontrol edilir "30"
+* "sonradanHemenUyeOlSifreTxt" elementine dinamik sifre yaz
+-* "sonradanHemenUyeOlSifreTxt" elementine <password> değerini yaz
+* "sonradanHemenUyeOlCinsiyetKadinBox" elementinin görünür olması kontrol edilir
+* "sonradanHemenUyeOlCinsiyetKadinBox" elementinin tıklanabilir olması kontrol edilir "30"
+* "sonradanHemenUyeOlCinsiyetKadinBox" elementine tıkla
+* "uyeOlTercihlerimeOzelChk" elementinin görünür olması kontrol edilir
+* "uyeOlTercihlerimeOzelChk" elementinin tıklanabilir olması kontrol edilir "30"
+* "uyeOlTercihlerimeOzelChk" elementine js ile tıkla
+* "sonradanHemenUyeOlUyeOlOnayBtn" elementinin görünür olması kontrol edilir
+* "sonradanHemenUyeOlUyeOlOnayBtn" elementinin tıklanabilir olması kontrol edilir "30"
+* "sonradanHemenUyeOlUyeOlOnayBtn" elementine tıkla
+* "100" milisaniye bekle
+* waitPageLoadCompleteJs
+* "HemenUyeOlUyeOlOTPtxt" elementinin görünür olması kontrol edilir "30"
+* "HemenUyeOlUyeOlOTPtxt" elementinin tıklanabilir olması kontrol edilir
+* "HemenUyeOlUyeOlOTPtxt" elementine "112547" değerini yaz
+* "HemenUyeOlUyeOlOTPonaylaBtn" elementinin tıklanabilir olması kontrol edilir
+* "HemenUyeOlUyeOlOTPonaylaBtn" elementine tıkla
+
+# Favorilere ekledikten sonra <username> kullanıcı adı ve <password> şifresi ile üyelik oluşturma işlemi yapılır.
+* "100" milisaniye bekle
+* waitPageLoadCompleteJs
+* "favorilereEklemeSonrasiUyeOlBtn" elementinin görünür olması kontrol edilir
+* "favorilereEklemeSonrasiUyeOlBtn" elementinin tıklanabilir olması kontrol edilir "20"
+* "favorilereEklemeSonrasiUyeOlBtn" elementine tıkla
+* waitPageLoadCompleteJs
+-* "yukleniyorMessageCtrl" elementinin var olmadığı kontrol edilir
+* "favorilereEklemeSonrasiUyeOlBtn" elementinin görünür olması kontrol edilir "30"
+* "favorilereEklemeSonrasiUyeOlBtn" elementinin tıklanabilir olması kontrol edilir
+* "favorilereEklemeSonrasiUyeOlBtn" elementine tıkla
+* "sepetOnaySonrasiCepTelTxt" elementinin görünür olması kontrol edilir
+* "sepetOnaySonrasiCepTelTxt" elementinin tıklanabilir olması kontrol edilir "20"
+* "sepetOnaySonrasiCepTelTxt" elementine tıkla
+* "sepetOnaySonrasiCepTelTxt" elementine "330000000" değerini yaz
+* "HemenUyeOlEPostaAdresiTxt" elementinin görünür olması kontrol edilir
+* "HemenUyeOlEPostaAdresiTxt" elementinin tıklanabilir olması kontrol edilir "20"
+* "HemenUyeOlEPostaAdresiTxt" elementine fake <username> mailini yaz
+* "HemenUyeOlSifreTxt" elementinin görünür olması kontrol edilir
+* "HemenUyeOlSifreTxt" elementinin tıklanabilir olması kontrol edilir "20"
+-* "HemenUyeOlSifreTxt" elementine <password> değerini yaz
+* "HemenUyeOlSifreTxt" elementine dinamik sifre yaz
+* "HemenUyeOlCinsiyetKadinBox" elementinin görünür olması kontrol edilir
+* "HemenUyeOlCinsiyetKadinBox" elementinin tıklanabilir olması kontrol edilir "20"
+* "HemenUyeOlCinsiyetKadinBox" elementine tıkla
+* "uyeOlTercihlerimeOzelChk" elementinin görünür olması kontrol edilir
+* "uyeOlTercihlerimeOzelChk" elementinin tıklanabilir olması kontrol edilir "20"
+* "uyeOlTercihlerimeOzelChk" elementine js ile tıkla
+* "HemenUyeOlUyeOlOnayBtn" elementinin görünür olması kontrol edilir
+* "HemenUyeOlUyeOlOnayBtn" elementinin tıklanabilir olması kontrol edilir "20"
+* "HemenUyeOlUyeOlOnayBtn" elementine js ile tıkla
+* waitPageLoadCompleteJs
+* "yukleniyorMessageCtrl" elementinin var olmadığı kontrol edilir
+* "favorilereEklemeSonrasiUyeOlOTPTelNoDogrulaTxtCtrl" elementinin görünür olması kontrol edilir
+* "uyeOlTelNoDogrulayinOTPTxt" elementine "112547" değerini yaz
+* "HemenUyeOlUyeOlOTPonaylaBtn2" elementinin tıklanabilir olması kontrol edilir
+* "HemenUyeOlUyeOlOTPonaylaBtn2" elementine tıkla
+* waitPageLoadCompleteJs
+* "yukleniyorMessageCtrl" elementinin var olmadığı kontrol edilir
+* "hesabimBtn" elementinin görünür olması kontrol edilir "30"
+* "hesabimBtn" elementinin tıklanabilir olması kontrol edilir
+
+//Lj de Kullanıldı Bitir
+
+
+# Hızlı menü <username> kullanıcı adı ve <password> şifresi ile üyelik oluşturma işlemi yapılır.
+* waitPageLoadCompleteJs
+* "girisYapBtn" elementinin görünür olması kontrol edilir
+* "girisYapBtn" elementinin tıklanabilir olması kontrol edilir "30"
+* "girisYapBtn" hover element
+* "500" milisaniye bekle
+* "hizliMenuUyeOlBtn" elementinin görünür olması kontrol edilir
+* "hizliMenuUyeOlBtn" elementinin tıklanabilir olması kontrol edilir "30"
+* "hizliMenuUyeOlBtn" elementine js ile tıkla
+* waitPageLoadCompleteJs
+* "yukleniyorMessageCtrl" elementinin var olmadığı kontrol edilir
+* "popUpHesabinizYoksaHemenUyeOlAdinizTxt" elementinin görünür olması kontrol edilir
+* "popUpHesabinizYoksaHemenUyeOlAdinizTxt" elementinin tıklanabilir olması kontrol edilir "30"
+* "popUpHesabinizYoksaHemenUyeOlAdinizTxt" elementine fake "" değerini yaz
+* "popUpHesabinizYoksaHemenUyeOlSoyadinizTxt" elementinin görünür olması kontrol edilir
+* "popUpHesabinizYoksaHemenUyeOlSoyadinizTxt" elementinin tıklanabilir olması kontrol edilir "30"
+* "popUpHesabinizYoksaHemenUyeOlSoyadinizTxt" elementine fake "" değerini yaz
+* "popUpHesabinizYoksaHemenUyeOlEPostaAdresinizTxt" elementinin görünür olması kontrol edilir
+* "popUpHesabinizYoksaHemenUyeOlEPostaAdresinizTxt" elementinin tıklanabilir olması kontrol edilir "30"
+* "popUpHesabinizYoksaHemenUyeOlEPostaAdresinizTxt" elementine fake <username> mailini yaz
+* "popUpHesabinizYoksaHemenUyeOlTelefonNumaranizTxt" elementinin görünür olması kontrol edilir
+* "popUpHesabinizYoksaHemenUyeOlTelefonNumaranizTxt" elementinin tıklanabilir olması kontrol edilir "30"
+* "popUpHesabinizYoksaHemenUyeOlTelefonNumaranizTxt" elementine "5330000000" değerini yaz
+* "popUpHesabinizYoksaHemenUyeOlSifreTxt" elementinin görünür olması kontrol edilir
+* "popUpHesabinizYoksaHemenUyeOlSifreTxt" elementinin tıklanabilir olması kontrol edilir "30"
+* "popUpHesabinizYoksaHemenUyeOlSifreTxt" elementine <password> değerini yaz
+* "popUpHesabinizYoksaHemenUyeOlCinsiyetBox" elementinin görünür olması kontrol edilir
+* "popUpHesabinizYoksaHemenUyeOlCinsiyetBox" elementinin tıklanabilir olması kontrol edilir "30"
+* "popUpHesabinizYoksaHemenUyeOlCinsiyetBox" elementine tıkla
+* "popUpHesabinizYoksaHemenUyeOlUyelikSozlesmesiChk" elementinin görünür olması kontrol edilir
+* "popUpHesabinizYoksaHemenUyeOlUyelikSozlesmesiChk" elementinin tıklanabilir olması kontrol edilir "30"
+* "popUpHesabinizYoksaHemenUyeOlUyelikSozlesmesiChk" elementine js ile tıkla
+* "popUpHesabinizYoksaHemenUyeOlOnayBtn" elementinin görünür olması kontrol edilir
+* "popUpHesabinizYoksaHemenUyeOlOnayBtn" elementinin tıklanabilir olması kontrol edilir "30"
+* "popUpHesabinizYoksaHemenUyeOlOnayBtn" elementine js ile tıkla
+* "yukleniyorMessageCtrl" elementinin var olmadığı kontrol edilir
+* waitPageLoadCompleteJs
+* "popupGirisYapBtn" elementinin var olmadığı kontrol edilir
+* "hesabimBtn" elementinin var olduğu kontrol edilir
+* "favorilerimBtn" elementinin var olduğu kontrol edilir
+
+

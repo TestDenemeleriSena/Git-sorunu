@@ -1,0 +1,54 @@
+[
+  {
+    "key": "footerKolayIade",
+    "value": "a[href='/kolay-iade']",
+    "type": "css"
+  },
+  {
+    "key": "footerKampanyalar",
+    "value": "a[href='/kampanyalar']",
+    "type": "css"
+  },
+  {
+    "key": "footerSSS",
+    "value": "a[href='/sss-desktop']",
+    "type": "css"
+  },
+  {
+    "key": "footerYardım",
+    "value": "a[href='/iletisim']",
+    "type": "css"
+  },
+  {
+    "key": "footerGizlilikVeCerez",
+    "value": "a[href='/gizlilik-ve-cerez']",
+    "type": "css"
+  },
+
+  {
+    "key": "footerKVKK",
+    "value": "a[href='/kisisel-verilerin-korunmasi']",
+    "type": "css"
+  },
+  {
+    "key": "footerCaymaHakkı",
+    "value": "a[href='/cayma-hakki-bilgi-rehberi']",
+    "type": "css"
+  },
+  {
+    "key": "footerIslemRehberi",
+    "value": "a[href='/islem-rehberi']",
+    "type": "css"
+  },
+
+  {
+    "key": "footerHakkinda",
+    "value": "a[href='/lumberjack-hakkinda']",
+    "type": "css"
+  },
+  {
+    "key": "footerIletisim",
+    "value": "a[href='/kurumsal-iletisim']",
+    "type": "css"
+  }
+]

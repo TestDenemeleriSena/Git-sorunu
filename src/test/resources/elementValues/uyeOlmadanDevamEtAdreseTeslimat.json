@@ -1,0 +1,85 @@
+[
+
+  {
+    "key": "uyelikOlmadanDevamEtAdreseTeslimatBtn",
+    "value": "delivery-address-tab",
+    "type": "id"
+  },
+  {
+    "key": "uyelikOlmadanDevamEtAdresEkleBtn",
+    "value": "button[class='btn btn d-flex flex-column  justify-content-center align-items-center checkout-address__button lumberjack mb-4']",
+    "type": "css"
+  },
+  {
+    "key": "uyelikOlmadanDevamEtEmailTxt",
+    "value": "input-email",
+    "type": "id"
+  },
+  {
+    "key": "uyelikOlmadanDevamEtAdTxt",
+    "value": "(//input[@id='input-firstName'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyelikOlmadanDevamEtSoyadTxt",
+    "value": "(//input[@id='input-lastName'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyelikOlmadanDevamEtCepTelefonuTxt",
+    "value": "(//input[@type='tel'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyelikOlmadanDevamEtIlSecinizBox",
+    "value": "div[data-test='checkout-address-default-city-change']",
+    "type": "css"
+  },
+  {
+    "key": "uyelikOlmadanDevamEtIlSecinizDrp",
+    "value": "//div[@data-test='checkout-custom-select-item-change-i̇stanbul']",
+    "type": "xpath"
+  },
+  {
+    "key": "uyelikOlmadanDevamEtIlceSecinizBox",
+    "value": "div[data-test='checkout-address-default-county-change']",
+    "type": "css"
+  },
+  {
+    "key": "uyelikOlmadanDevamEtIlceSecinizDrp",
+    "value": "div[data-test='checkout-custom-select-item-change-bakırköy']",
+    "type": "css"
+  },
+  {
+    "key": "uyelikOlmadanDevamEtMahalleSecinizBox",
+    "value": "div[data-test='checkout-address-default-neighborhoods-change']",
+    "type": "css"
+  },
+  {
+    "key": "uyelikOlmadanDevamEtMahalleSecinizDrp",
+    "value": "div[data-test='checkout-custom-select-item-change-ataköy 7-8-9-10. kısım mah']",
+    "type": "css"
+  },
+  {
+    "key": "uyelikOlmadanDevamEtAdresTxt",
+    "value": "textarea[name='street']",
+    "type": "css"
+  },
+  {
+    "key": "uyelikOlmadanDevamEtKaydetBtn",
+    "value": "button[data-test='save-to-checkout-address-new-address-modal-shipping_address']",
+    "type": "css"
+  },
+  {
+    "key": "uyeOlmadanDevamEtYeniAdresEkleOtpTxt",
+    "value": "input[aria-label='Please enter verification code. Digit 1']",
+    "type": "css"
+  },
+  {
+    "key": "uyeOlmadanDevamEtYeniAdresEkleOtpOnaylaBtn",
+    "value": "button[data-test='submit-otp-button-verify']",
+    "type": "css"
+  }
+
+
+]

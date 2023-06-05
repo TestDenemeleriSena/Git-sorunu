@@ -1,0 +1,375 @@
+[
+
+  {
+    "key": "urunDetayKargoUcretsizFiyatBilgisiTxt",
+    "value": "span[class='header-top-message']",
+    "type": "css"
+  },
+  {
+    "key": "AnaSayfaLogoBtn",
+    "value": "a[data-test='open-to-checkout-header-home-page-redirect']",
+    "type": "css"
+  },
+  {
+    "key": "yukleniyorMessageCtrl",
+    "value": "loading-box",
+    "type": "id"
+  },
+  {
+    "key": "yukleniyorMessageCtrl2",
+    "value": "img[class='lazyloaded']",
+    "type": "css"
+  },
+  {
+    "key": "yukleniyorMessageLoginCtrl",
+    "value": ".lazyload.lazy-init",
+    "type": "css"
+  },
+  {
+    "key": "adetButonuCtrl",
+    "value": ".cart__select-label",
+    "type": "css"
+  },
+  {
+    "key": "sepettekiUrunuBirYapmaCtrl",
+    "value": "//em[text()='1']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetimBirUrunTxtCtrl",
+    "value": "//em[text()='1']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetimActualIndirimliFiyatTxt",
+    "value": "(//div[@class='cart__price--actual'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetimKargoUcretBilgisiBox",
+    "value": ".cart__summary-review.shipping-amount-label>.cart__summary-price",
+    "type": "css"
+  },
+  {
+    "key": "sepetimKargoUcretliFiyatBilgisiTxt",
+    "value": "(//div[@class='cart__footer-info'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeGirisiSonrasiYeniAdresBasligiCtrl",
+    "value": "(//input[@id='input-title_address'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "bbmSifreGirisTxt",
+    "value": "input[name='frontend_password']",
+    "type": "css"
+  },
+  {
+    "key": "CerezKabulEtBtn",
+    "value": ".cookie-close",
+    "type": "css"
+  },
+  {
+    "key": "anasayfaAcilmasiKontrolMhCtrl",
+    "value": "//span[text()='Müşteri Hizmetleri']",
+    "type": "xpath"
+  },
+  {
+    "key": "sayfaContainerGirisYapPopUpCtrl",
+    "value": ".fancybox-container",
+    "type": "css"
+  },
+  {
+    "key": "searchBoxPopUpKapatBtnCtrl",
+    "value": ".autocomplete__close>i",
+    "type": "css"
+  },
+  {
+    "key": "hesabimBtn",
+    "value": "a[data-test='open-to-edit-profile']",
+    "type": "css"
+  },
+  {
+    "key": "hesabimKayitliKartlarimCtrl",
+    "value": "div[class='credit-card']",
+    "type": "css"
+  },
+  {
+    "key": "hesabimBuAlaniDoldurunuzCepTelTxtCtrl",
+    "value": "phone-error",
+    "type": "id"
+  },
+  {
+    "key": "hesabimZorunluAlanlarDoldurulmalidirPopUpCtrl",
+    "value": "div[class='fancybox-content']",
+    "type": "css"
+  },
+  {
+    "key": "hesabimCepTelfGuncelleBtnPasifCtrl",
+    "value": "button[class='btn btn-block btn-verify customer-phone-verify js-customer-verify-btn mt-5 pl-0 pr-0']",
+    "type": "css"
+  },
+  {
+    "key": "anasayfaAlisveriseBaslaBtn",
+    "value": "(//button[@class='btn btn-link rich-banner__button mb-3'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "urunRenkImgKontrol",
+    "value": ".detail__colors-image",
+    "type": "css"
+  },
+  {
+    "key": "sepeteEkleAndFavBarCtrl",
+    "value": "div[class='detail__actions align-items-center']",
+    "type": "css"
+  },
+  {
+    "key": "openFavBtnCtrl",
+    "value": ".detail__actions.align-items-center.open",
+    "type": "css"
+  },
+  {
+    "key": "bedenSecimBarCtrl",
+    "value": "form.detail__sizes-input",
+    "type": "css"
+  },
+  {
+    "key": "bedenSecimChkCtrl",
+    "value": "input[class='form-check-input input-radio js-product-size-input hidden selected']",
+    "type": "css"
+  },
+  {
+    "key": "favorilerimSayfasiCtrl",
+    "value": "//h1[text()='Favorilerim']",
+    "type": "xpath"
+  },
+  {
+    "key": "favorilerimdeUrunYokTxtCtrl",
+    "value": ".empty-information__heading",
+    "type": "css"
+  },
+  {
+    "key": "sepetimBtnBoşSayiCtrl",
+    "value": "//span[text()='0']",
+    "type": "xpath"
+  },
+
+  {
+    "key": "sepettekiUrunuIkıYapmaCtrl",
+    "value": "//option[text()='2']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetimİkiUrunTxtCtrl",
+    "value": "//em[text()='2']",
+    "type": "xpath"
+  },
+
+  {
+    "key": "sepetinizdeUrunBulunmamaktadirTxtCtrl",
+    "value": ".empty-cart__title.mb-3",
+    "type": "css"
+  },
+  {
+    "key": "gecersizKartNumarasiMesajıPopUpCtrl",
+    "value": ".fancybox-content",
+    "type": "css"
+  },
+  {
+    "key": "sepetimButonKucukIkonBosCtrl",
+    "value": "//span[text()='0']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetimGenelToplamTxt",
+    "value": "div[class='cart__summary-price cart__summary-price--strong']>span",
+    "type": "css"
+  },
+  {
+    "key": "kargoPriceTxt",
+    "value": "(//span[@class='cargomoney'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "kargoUcretsizTxt",
+    "value": "//span[text()='ÜCRETSİZ']",
+    "type": "xpath"
+  },
+  {
+    "key": "urunDetaySaticiKargoUcretsizFiyatiTxt",
+    "value": "(//div[@class='detail__description-content merchant-detail']/ul/li)[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetimKargoUcretsizFiyatBilgisiTxt",
+    "value": ".cart__footer-info>strong>span",
+    "type": "css"
+  },
+  {
+    "key": "sepetimKargoUcretsizTxt",
+    "value": "//div[@class='cart__footer-info']/strong/span/text()",
+    "type": "xpath"
+  },
+  {
+    "key": "solMenuAyniGunGelAlTxtCtrl",
+    "value": ".listing__filters-same-day--title",
+    "type": "css"
+  },
+  {
+    "key": "urunDetayAyniGunGelAlCheckboxTikiCtrl",
+    "value": ".listing__filters-same-day--title",
+    "type": "css"
+  },
+  {
+    "key": "sepetinizdeUrunBulunmamaktadirTxtCtrl",
+    "value": ".empty-cart__title.mb-3",
+    "type": "css"
+  },
+  {
+    "key": "gecersizKartNumarasiMesajıPopUpCtrl",
+    "value": ".fancybox-content",
+    "type": "css"
+  },
+  {
+    "key": "sepetimButonKucukIkonBosCtrl",
+    "value": "//span[text()='0']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetimAdetTxt",
+    "value": "(//select[@data-test='select-product-quantity']/option)[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "listelenenUrunlerContainerCtrl",
+    "value": ".row.product-lists",
+    "type": "css"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+  "key": "telfNoDogrulayinOTPCtrl",
+  "value": "div[class='sign-up-container__header--title']",
+  "type": "css"
+},
+  {
+    "key": "telfNoDogrulayinOtpCtrl2",
+    "value": "//div[text()='Telefon Numaranızı Doğrulayın']",
+    "type": "xpath"
+  },
+  {
+    "key": "favorilerimAlisveriseBaslaTxtCtrl",
+    "value": "//a[text()='ALIŞVERİŞE BAŞLA ']",
+    "type": "xpath"
+  },
+  {
+    "key": "favorilereEklemeSonrasiUyeOlOTPTelNoDogrulaTxtCtrl",
+    "value": "div[class='sign-up-container__header--title py-2 js-otp-change-title']",
+    "type": "css"
+  },
+  {
+    "key": "istenilenMiktardaUrunBulunmamaktadirPopUpCtrl",
+    "value": "div[class='fancybox-content']",
+    "type": "css"
+  },
+  {
+    "key": "girisYapBtnTxtCtrl",
+    "value": "//a[text()='GİRİŞ YAP']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetiniPaylasSepetinizBasariliBirlestirildiTxtCtrl",
+    "value": "//div[text()='Sepetiniz başarılı bir şekilde birleştirildi.']",
+    "type": "xpath"
+  },
+  {
+    "key": "siparislerimSiparisIptalPopUpCtrl",
+    "value": ".fancybox-content",
+    "type": "css"
+  },
+  {
+    "key": "npsSuccessCtrl",
+    "value": "div[class='js-nps-success']",
+    "type": "css"
+  },
+  {
+    "key": "kolayIadeTitleCtrl",
+    "value": "h1[class='kolay-iade']",
+    "type": "css"
+  },
+  {
+    "key": "sikcaSorulanSorularKategoriBoxesCtrl",
+    "value": "div[class='category-boxes hidden-xs']",
+    "type": "css"
+  },
+  {
+    "key": "sikcaSorulanSorularKategoriLinksCtrl",
+    "value": "(//div[@class='category-links'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sikcaSorulanSorularSiparislerKategoriBaslikCtrl",
+    "value": "(//a[@data-question-id='25'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "sikcaSorulanSorularIadeBaslikCtrl",
+    "value": "(//a[@data-question-id='8'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "sikcaSorulanSorularKargoVeTeslimatBaslikCtrl",
+    "value": "(//a[@data-question-id='60'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "sikcaSorulanSorularKargoVeTeslimatBaslikCtrl",
+    "value": "(//a[@data-question-id='60'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "sikcaSorulanSorularHesabimBaslikCtrl",
+    "value": "(//a[@data-question-id='5'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "islemRehberiGuideCtrl",
+    "value": "div[class='col-sm-12 trading-guide']",
+    "type": "css"
+  },
+  {
+    "key": "siparisDurumuSorgulaCepTelTxtCtrl",
+    "value": "input[name='telephone']",
+    "type": "css"
+  },
+  {
+    "key": "siparisDurumuSorgulaSiparisNoTxtCtrl",
+    "value": "input[name='id']",
+    "type": "css"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+  "key": "",
+  "value": "",
+  "type": ""
+}
+]

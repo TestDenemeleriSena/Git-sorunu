@@ -1,0 +1,87 @@
+[
+  {
+    "key": "sikcaSorulanSorularSiparislerKategori",
+    "value": "(//a[@data-question-id='25'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sikcaSorulanSorularIadeKategori",
+    "value": "(//a[@data-question-id='8'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sikcaSorulanSorularKargoVeTeslimatKategori",
+    "value": "(//a[@data-question-id='60'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sikcaSorulanSorularHesabimKategori",
+    "value": "(//a[@data-question-id='5'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "turuncuBagciklarHemenAlBtn",
+    "value": "//*[text()='Hemen al ']",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyalarLink",
+    "value": "(//div[@class='campaign__card campaign__item campaign__link'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyalarUrunleriInceleBtn",
+    "value": "(//a[@class='btn btn-orange mb-3 mt-1'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "magazalarimizMagazaSearch",
+    "value": "input[class='form-control map-store__search-input']",
+    "type": "css"
+  },
+  {
+    "key": "magazalarimizMagazaIlBox",
+    "value": "select[name='city']",
+    "type": "css"
+  },
+  {
+    "key": "magazalarimizMagazaIlDrp",
+    "value": "option[value='İstanbul']",
+    "type": "css"
+  },
+  {
+    "key": "magazalarimizMagazaIlceBox",
+    "value": "select[name='province']",
+    "type": "css"
+  },
+  {
+    "key": "magazalarimizMagazaIlceDrp",
+    "value": "option[value='Bakırköy']",
+    "type": "css"
+  },
+  {
+    "key": "iletisimSohbetiBaşlatBtn",
+    "value": "a[class='btn btn-large btn-white js-open-chatbot']",
+    "type": "css"
+  },
+  {
+    "key": "iletisimBiziAraBtn",
+    "value": "//a[text()='Bizi Ara ']",
+    "type": "xpath"
+  },
+  {
+    "key": "iframeHizliDestekAsistaniTemplate",
+    "value": "iframe[class='dahi-chat-frame']",
+    "type": "css"
+  },
+  {
+    "key": "ayakkabiBakimiDeriBakimUrunleriniKesfetBtn",
+    "value": "(//a[@class='btn btn-dark mt-4'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "kolayIadeSiparisiniKontrolEtBtn",
+    "value": "a[data-test='action-track-order-from-footer']",
+    "type": "css"
+  }
+]

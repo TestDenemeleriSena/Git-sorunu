@@ -1,0 +1,27 @@
+[
+{
+  "key": "anasayfaAyakkabiKategoriBtn",
+  "value": "(//span[text()='Ayakkabı'])[2]",
+  "type": "xpath"
+},
+{
+"key": "ayakkabiKategoriFiltreBtn",
+"value": ".listing__filter-list.listing__categories.js-listing-categories>ul>li",
+"type": "css"
+},
+{
+"key": "ayakkabiCinsiyetFiltreChk",
+"value": "div[class='listing__filter-list js-listing-filter-list double mar']>label>span[class='xs']",
+"type": "css"
+},
+{
+"key": "ayakkabiBedenOnSekizNumaraChk",
+"value": "label[for='beden-1']>span",
+"type": "css"
+},
+{
+"key": "randomBedenFiltreChk",
+"value": "div[id='collapse-Beden']>div>div>label[data-test='select-filter']>span",
+"type": "css"
+}
+]

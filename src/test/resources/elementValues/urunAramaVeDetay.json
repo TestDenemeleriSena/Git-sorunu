@@ -1,0 +1,98 @@
+[
+
+  {
+    "key": "productDetail",
+    "value": "(//a[@data-test='open-to-product-detail-from-element'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "anasayfaSearchBtn",
+    "value": "//i[@class='fas fa-search']",
+    "type": "xpath"
+  },
+  {
+    "key": "searchBtn",
+    "value": "//i[@class='fas fa-search']",
+    "type": "xpath"
+  },
+  {
+    "key": "searchBoxTxt",
+    "value": "input[type='search']",
+    "type": "css"
+  },
+  {
+    "key": "searchBoxBtn",
+    "value": "button[class='btn btn-primary']",
+    "type": "css"
+  },
+  {
+    "key": "urunListesiFlogartImg",
+    "value": "div[class='product-image-wrapper']",
+    "type": "css"
+  },
+  {
+    "key": "randomUrunRenkSecimBtn",
+    "value": ".product-options.order-1.mt-2.mb-2>ul>li",
+    "type": "css"
+  },
+  {
+    "key": "randomUrunBedenSecimBtn",
+    "value": ".product-options-list.list-inline.size>li[class=' ']",
+    "type": "css"
+  },
+  {
+    "key": "randomUrunBedenSecimTekBedenBtn",
+    "value": ".product-options-list.list-inline.size>li[class=' active']",
+    "type": "css"
+  },
+  {
+    "key": "randomUrunBedenSecimTekKalanBtn",
+    "value": ".product-options-list.list-inline.size>li[class='active']",
+    "type": "css"
+  },
+  {
+    "key": "searchBoxCategory",
+    "value": ".ac-category",
+    "type": "css"
+  },
+  {
+    "key": "searchBoxManufacturer",
+    "value": ".ac-manufacturer",
+    "type": "css"
+  },
+  {
+    "key": "popupSearchBox",
+    "value": "input[placeholder='Ara..']",
+    "type": "css"
+  },
+  {
+    "key": "listelenenUrunlerdenSecBtn",
+    "value": "a[data-test='open-to-product-detail']>img",
+    "type": "css"
+  },
+  {
+    "key": "bedenSecimBtn",
+    "value": "(//label[@data-test='click-to-product-size-selection'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "urunListesiImgInci",
+    "value": ".lazyautosizes.lazyloaded",
+    "type": "css"
+  },
+  {
+    "key": "renkSecimBtn",
+    "value": ".detail__colors-item.active>img",
+    "type": "css"
+  },
+  {
+    "key": "istenilenMiktardaUrunBulunmamaktadirPopUpTamamBtn",
+    "value": "a[class='btn btn-primary btn-block']",
+    "type": "css"
+  },
+  {
+    "key": "urunDetayId",
+    "value": "a[class='cart__item-name']",
+    "type": "css"
+  }
+]

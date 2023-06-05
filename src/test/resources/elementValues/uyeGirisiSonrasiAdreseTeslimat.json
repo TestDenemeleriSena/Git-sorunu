@@ -1,0 +1,69 @@
+[
+
+  {
+    "key": "uyeGirisiSonrasiYeniAdresEkleBtn",
+    "value": "(//button[@data-test='open-to-checkout-address-new-address-modal-shipping_address'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeGirisiSonrasiYeniAdresEkleAdresBasligiTxt",
+    "value": "(//input[@id='input-title_address'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeGirisiSonrasiYeniAdresEkleAdTxt",
+    "value": "input[id='input-firstName']",
+    "type": "css"
+  },
+  {
+    "key": "uyeGirisiSonrasiYeniAdresEkleSoyadTxt",
+    "value": "input[id='input-lastName']",
+    "type": "css"
+  },
+  {
+    "key": "uyeGirisiSonrasiYeniAdresEkleCepTelefonuTxt",
+    "value": "input[type='tel']",
+    "type": "css"
+  },
+  {
+    "key": "uyeGirisiSonrasiYeniAdresEkleIlSecinizBox",
+    "value": "div[data-test='checkout-address-default-city-change']",
+    "type": "css"
+  },
+  {
+    "key": "uyeGirisiSonrasiYeniAdresEkleIlSecinizDrp",
+    "value": "//div[@data-test='checkout-custom-select-item-change-i̇stanbul']",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeGirisiSonrasiYeniAdresEkleIlceSecinizBox",
+    "value": "div[data-test='checkout-address-default-county-change']",
+    "type": "css"
+  },
+  {
+    "key": "uyeGirisiSonrasiYeniAdresEkleIlceSecinizDrp",
+    "value": "div[data-test='checkout-custom-select-item-change-bakırköy']",
+    "type": "css"
+  },
+  {
+    "key": "uyeGirisiSonrasiYeniAdresEkleMahalleSecinizBox",
+    "value": "div[data-test='checkout-address-default-neighborhoods-change']",
+    "type": "css"
+  },
+  {
+    "key": "uyeGirisiSonrasiYeniAdresEkleMahalleSecinizDrp",
+    "value": "div[data-test='checkout-custom-select-item-change-ataköy 7-8-9-10. kısım mah']",
+    "type": "css"
+  },
+  {
+    "key": "uyeGirisiSonrasiYeniAdresEkleAdresTxt",
+    "value": "textarea[name='street']",
+    "type": "css"
+  },
+  {
+    "key": "uyeGirisiSonrasiYeniAdresEkleKaydetBtn",
+    "value": "button[data-test='save-to-checkout-address-new-address-modal-shipping_address']",
+    "type": "css"
+  }
+
+]

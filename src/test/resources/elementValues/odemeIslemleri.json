@@ -1,0 +1,138 @@
+[
+
+  {
+    "key": "odemeAdiminaGecBtn",
+    "value": "button[class='btn btn-green cart__approval order-3 flo-theme']",
+    "type": "css"
+  },
+  {
+    "key": "odemeKartNumarasiTxt",
+    "value": "cc_number",
+    "type": "id"
+  },
+  {
+    "key": "odemeAyDrp",
+    "value": "(//select[@id='card-expiration-month']/option)[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeYilDrp",
+    "value": "(//select[@id='card-expiration-year']/option)[5]",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeCvvTxt",
+    "value": "card-ccv",
+    "type": "id"
+  },
+  {
+    "key": "odemeKartSaklaChk",
+    "value": "save-card-command",
+    "type": "id"
+  },
+  {
+    "key": "odemeBaskaKartlaOdeBtn",
+    "value": "button[data-test='click-to-checkout-payment-pay-with-another-card']",
+    "type": "css"
+  },
+  {
+    "key": "odemeMesafeliSatisSozlesmesiChk",
+    "value": "//span[@id='cc-check--icon']",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeOdemeyiTamamlaBtn",
+    "value": "button[data-test='checkout-summary-complete-action-button']",
+    "type": "css"
+  },
+  {
+
+    "key": "odemeOdemeyiTamamlaUyariPopupKapatBtn",
+    "value": ".Toastify__close-button.Toastify__close-button--error",
+    "type": "css"
+  },
+  {
+    "key": "odemeKapidaOdemeBtn",
+    "value": "//*[text()='Kapıda Ödeme']",
+    "type": "xpath"
+  },
+  {
+
+    "key": "odemeKapidaOdemeyiTamamlaUyariPopupKapatBtn",
+    "value": "button[title='Close']",
+    "type": "css"
+  },
+
+  {
+
+    "key": "odemeKapidaOdemeTestSmsCodeTxt",
+    "value": "input[id='smsCode']",
+    "type": "css"
+  },
+  {
+
+    "key": "odemeKapidaOdemeTestSubmitTxt",
+    "value": "submitBtn",
+    "type": "id"
+  },
+  {
+
+    "key": "odemeKapidaOdemeTestadres",
+    "value": ".checkout-wrapper>div[class='three-d-secure-popup']>div[class='three-d-secure-popup__cell']>div[class='three-d-secure-popup__content']>iframe",
+    "type": "css"
+  },
+  {
+
+    "key": "odemeKapidaOdemeTestAlisveriseDevamEtBtn",
+    "value": "a[class='btn btn-green btn--bigger']",
+    "type": "css"
+  },
+  {
+
+    "key": "odemeKapidaOdemeCepTelfonuTxt",
+    "value": "input[placeholder='Cep Telefonu']",
+    "type": "css"
+  },
+  {
+
+    "key": "odemeKapidaOdemeCepTelfonuGonderBtn",
+    "value": "check_activation_sms",
+    "type": "id"
+  },
+  {
+
+    "key": "odemeKapidaOdemeCepTelfonuOtpSifreTxt",
+    "value": "activation_code",
+    "type": "id"
+  },
+  {
+    "key": "odemeyiIptalEtBtn",
+    "value": "cancelbutton",
+    "type": "id"
+  },
+  {
+    "key": "odemeAyBox",
+    "value": "card-expiration-month",
+    "type": "id"
+  },
+  {
+    "key": "odemeYilBox",
+    "value": "card-expiration-year",
+    "type": "id"
+  },
+  {
+    "key": "odemeIframe",
+    "value": "iframe[class='three-d-secure-popup__iframe']",
+    "type": "css"
+  },
+  {
+    "key": "odemeSmsCodeTxt",
+    "value": "smsCode",
+    "type": "id"
+  },
+  {
+    "key": "odemeSmsCodeSubmitBtn",
+    "value": "submitBtn",
+    "type": "id"
+  }
+]

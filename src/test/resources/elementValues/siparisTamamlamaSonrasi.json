@@ -1,0 +1,47 @@
+[
+  {
+    "key": "siparislerimBtn",
+    "value": "a[data-test='go-to-orders']",
+    "type": "css"
+  },
+  {
+    "key": "odemeSonrasiSiparislerimOtpTelefonTxt",
+    "value": "input[class='form-control inputmask form-control__input js-form-control js-inputmode error']",
+    "type": "css"
+  },
+  {
+    "key": "siparislerimSiparisDetayiBtn",
+    "value": "(//*[text()='SİPARİŞ DETAYI '])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparislerimSiparisIptalBtn",
+    "value": "a[class='btn siparis_iptal_modal']",
+    "type": "css"
+  },
+  {
+    "key": "siparislerimSiparisİptalNedeniRandomSecimChk",
+    "value": "input[type='radio']",
+    "type": "css"
+  },
+  {
+    "key": "siparislerimSiparisİptalNedeniRandomSecimDigerTxt",
+    "value": "textarea[name='reason']",
+    "type": "css"
+  },
+  {
+    "key": "siparislerimSiparisIptalEtBtn",
+    "value": "flo_siparis_iptal",
+    "type": "id"
+  },
+  {
+    "key": "siparislerimBasariliSekildeIptalEdildiPopUpTamamBtn",
+    "value": "a[class='btn btn-primary btn-block']",
+    "type": "css"
+  },
+  {
+    "key": "siparislerimFavorilerimBtn",
+    "value": "a[href='/customer/wishlist']",
+    "type": "css"
+  }
+]

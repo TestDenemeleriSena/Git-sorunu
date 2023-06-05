@@ -1,0 +1,122 @@
+[
+  {
+    "key": "magazadanTeslimatBtn",
+    "value": "ship-shop-tab",
+    "type": "id"
+  },
+  {
+    "key": "magazadanTeslimatIlSecinizBox",
+    "value": "city",
+    "type": "id"
+  },
+  {
+    "key": "magazadanTeslimatIlSecinizDrp",
+    "value": "//select[@id='city']/option[9]",
+    "type": "xpath"
+  },
+  {
+    "key": "magazadanTeslimatIlceSecinizBox",
+    "value": "district",
+    "type": "id"
+  },
+  {
+    "key": "magazadanTeslimatIlceSecinizDrp",
+    "value": "//select[@id='district']/option[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "magazadanTeslimatMagazaSecChk",
+    "value": "label[data-test='click-to-checkout-adress-store-selected-item']",
+    "type": "css"
+  },
+  {
+    "key": "uyeGirisiMagazadanTeslimatFaturaAdresiYeniAdresEkleBtn",
+    "value": "a[data-test='open-to-checkout-address-new-address-modal-shipping_address-click-collect']",
+    "type": "css"
+  },
+  {
+    "key": "uyeGirisiMagazadanTeslimatFaturaAdresiAdresBasligiTxt",
+    "value": "(//input[@name='title_address'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeGirisiMagazadanTeslimatFaturaAdresiAdTxt",
+    "value": "(//input[@name='firstname'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeGirisiMagazadanTeslimatFaturaAdresiSoyadTxt",
+    "value": "(//input[@name='lastname'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeGirisiMagazadanTeslimatFaturaAdresiCepTelefonuTxt",
+    "value": "(//input[@name='telephone'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeGirisiMagazadanTeslimatFaturaAdresiIlSecBox",
+    "value": "(//select[@id='region_'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeGirisiMagazadanTeslimatFaturaAdresiIlSecDrp",
+    "value": "(//select[@id='region_'])[2]/option[9]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeGirisiMagazadanTeslimatFaturaAdresiIlceSecBox",
+    "value": "(//select[@id='city_'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeGirisiMagazadanTeslimatFaturaAdresiIlceSecDrp",
+    "value": "(//select[@id='city_'])[2]/option[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeGirisiMagazadanTeslimatFaturaAdresiAdresTxt",
+    "value": "(//textarea[@name='street'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeGirisiMagazadanTeslimatFaturaAdresiKaydetBtn",
+    "value": "formAddresSave",
+    "type": "id"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  }
+]

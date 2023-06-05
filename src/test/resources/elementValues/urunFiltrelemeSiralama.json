@@ -1,0 +1,52 @@
+[
+  {
+    "key": "urunSiralamaFiltresiBox",
+    "value": "product-list-sorting-dropdown",
+    "type": "id"
+  },
+  {
+    "key": "urunSiralamaFiltresiRandomSecimDrp",
+    "value": "select[class='form-control']>option",
+    "type": "css"
+  },
+  {
+    "key": "urunSiralamaFiltresiOnerilenSecimDrp",
+    "value": "//select[@class='form-control js-commerce-sort-order active']/option[text()='Önerilen']",
+    "type": "xpath"
+  },
+  {
+    "key": "urunSiralamaFiltresiEnDusukFiyatSecimDrp",
+    "value": "//select[@class='form-control js-commerce-sort-order active']/option[text()='En Düşük Fiyat']",
+    "type": "xpath"
+  },
+  {
+    "key": "urunSiralamaFiltresiEnYuksekFiyatSecimDrp",
+    "value": "//select[@class='form-control js-commerce-sort-order active']/option[text()='En Yüksek Fiyat']",
+    "type": "xpath"
+  },
+  {
+    "key": "urunSiralamaFiltresiEnYenilerSecimDrp",
+    "value": "//select[@class='form-control js-commerce-sort-order active']/option[text()='En Yeniler']",
+    "type": "xpath"
+  },
+  {
+    "key": "urunSiralamaFiltresiEnCokSatanlarSecimDrp",
+    "value": "//select[@class='form-control js-commerce-sort-order active']/option[text()='En Çok Satanlar']",
+    "type": "xpath"
+  },
+  {
+    "key": "urunSiralamaFiltresiEnFavorilerSecimDrp",
+    "value": "//select[@class='form-control js-commerce-sort-order active']/option[text()='En Favoriler']",
+    "type": "xpath"
+  },
+  {
+    "key": "fiyatAraligiFiltreEnAzFlogartTxt",
+    "value": "input[name='min']",
+    "type": "css"
+  },
+  {
+    "key": "fiyatAraligiFiltreEnCokFlogartTxt",
+    "value": "input[name='max']",
+    "type": "css"
+  }
+]

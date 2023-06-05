@@ -1,0 +1,70 @@
+Created by onderyerim on 24.10.2022
+
+This is a concept file with following syntax for each concept.
+//Lj de Kullanıldı Başla
+# Sayfadaki çerez/çerezler kabul edilir.
+ waitPageLoadCompleteJs
+ "yukleniyorMessageCtrl" elementinin görünür olmadığı kontrol edilir
+* "200" milisaniye bekle
+* "CerezKabulEtBtn" elementi görünürse, "CerezKabulEtBtn" elementine tıkla
+* "CerezKabulEtBtn" elementinin görünür olmadığı kontrol edilir
+
+# <username> kullanıcı adı ve <password> şifresi ile üyelik girişi yapılır.
+* waitPageLoadCompleteJs
+* "baslikgirisyapBtn" elementinin görünür olması kontrol edilir
+* "baslikgirisyapBtn" elementinin tıklanabilir olması kontrol edilir "20"
+* "baslikgirisyapBtn" elementine tıkla
+* "bbmSifreGirisTxt" elementi görünürse, "bbmSifreGirisTxt" elementine "bbm2021" değerini yaz ve entere bas
+* "GirisYapEpostaAdresiTxt" elementinin görünür olması kontrol edilir
+* "GirisYapEpostaAdresiTxt" elementinin tıklanabilir olması kontrol edilir "20"
+* "GirisYapEpostaAdresiTxt" elementine dinamik kullanici adi yaz
+* "GirisYapEmailBtn" elementinin görünür olması kontrol edilir
+* "GirisYapEmailBtn" elementinin tıklanabilir olması kontrol edilir "20"
+* "GirisYapEmailBtn" elementine js ile tıkla
+* "GirisYapSifreTxt" elementinin görünür olması kontrol edilir
+* "GirisYapSifreTxt" elementinin tıklanabilir olması kontrol edilir "20"
+* "GirisYapSifreTxt" elementine dinamik sifre yaz
+ "GirisYapSifreTxt" elementine <password> değerini yaz
+
+* "GirisYapPasswordBtn" elementinin görünür olması kontrol edilir
+* "GirisYapPasswordBtn" elementinin tıklanabilir olması kontrol edilir "20"
+* "GirisYapPasswordBtn" elementine js ile tıkla
+* waitPageLoadCompleteJs
+
+# Favorilere ekledikten sonra <username> kullanıcı adı ve <password> şifresi ile üyelik girişi yapılır.
+* "GirisYapEpostaAdresiTxt" elementinin görünür olması kontrol edilir
+* "GirisYapEpostaAdresiTxt" elementinin tıklanabilir olması kontrol edilir "20"
+* "GirisYapEpostaAdresiTxt" elementine dinamik kullanici adi yaz
+* "GirisYapEmailBtn" elementinin görünür olması kontrol edilir "30"
+* "GirisYapEmailBtn" elementinin tıklanabilir olması kontrol edilir
+* "GirisYapEmailBtn" elementine tıkla
+* "GirisYapSifreTxt" elementinin görünür olması kontrol edilir
+* "GirisYapSifreTxt" elementinin tıklanabilir olması kontrol edilir "20"
+-* "GirisYapSifreTxt" elementine <password> değerini yaz
+*"GirisYapSifreTxt" elementine dinamik sifre yaz
+* "GirisYapPasswordBtn" elementinin görünür olması kontrol edilir
+* "GirisYapPasswordBtn" elementinin tıklanabilir olması kontrol edilir "20"
+* "GirisYapPasswordBtn" elementine tıkla
+* waitPageLoadCompleteJs
+
+# Sepeti onayladıktan sonra <username> kullanıcı adı ve <password> şifresi ile üyelik girişi yapılır.
+* waitPageLoadCompleteJs
+* "sepetOnaySonrasiEpostaAdresiTxt" elementinin görünür olması kontrol edilir
+* "sepetOnaySonrasiEpostaAdresiTxt" elementinin tıklanabilir olması kontrol edilir "30"
+* "sepetOnaySonrasiEpostaAdresiTxt" elementine dinamik kullanici adi yaz
+* "sepetOnaylamaSonrasiUyeGirisiGirisYapBtnEmail" elementinin görünür olması kontrol edilir
+* "sepetOnaylamaSonrasiUyeGirisiGirisYapBtnEmail" elementinin tıklanabilir olması kontrol edilir "30"
+* "sepetOnaylamaSonrasiUyeGirisiGirisYapBtnEmail" elementine js ile tıkla
+* "sepetOnaySonrasiSifreTxt" elementinin görünür olması kontrol edilir
+* "sepetOnaySonrasiSifreTxt" elementinin tıklanabilir olması kontrol edilir "30"
+-* "sepetOnaySonrasiSifreTxt" elementine <password> değerini yaz
+* "sepetOnaySonrasiSifreTxt" elementine dinamik sifre yaz
+* "1" saniye bekle
+* "sepetOnaylamaSonrasiUyeGirisiGirisYapBtnSifre" elementinin görünür olması kontrol edilir
+* "sepetOnaylamaSonrasiUyeGirisiGirisYapBtnSifre" elementinin tıklanabilir olması kontrol edilir "30"
+* "sepetOnaylamaSonrasiUyeGirisiGirisYapBtnSifre" elementine js ile tıkla
+* waitPageLoadCompleteJs
+* "500" milisaniye bekle
+* "yukleniyorMessageLoginCtrl" elementinin görünür olmadığı kontrol edilir
+* "yukleniyorMessageCtrl" elementinin görünür olmadığı kontrol edilir
+//Lj de Kullanıldı Bitir

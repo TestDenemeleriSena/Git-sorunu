@@ -1,0 +1,107 @@
+[
+  {
+    "key": "uyeOlmadanDevamEtMagazadanTeslimatIlSecinizBox",
+    "value": "select[id='city']",
+    "type": "css"
+  },
+  {
+    "key": "uyeOlmadanDevamEtMagazadanTeslimatIlSecinizDrp",
+    "value": "//select[@id='city']/option[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlmadanDevamEtMagazadanTeslimatIlceSecinizBox",
+    "value": "district",
+    "type": "id"
+  },
+  {
+    "key": "uyeOlmadanDevamEtMagazadanTeslimatIlceSecinizDrp",
+    "value": "//select[@id='district']/option[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlmadanDevamEtMagazadanTeslimatAlicininAdiTxt",
+    "value": "self-firstname",
+    "type": "id"
+  },
+  {
+    "key": "uyeOlmadanDevamEtMagazadanTeslimatAlicininSoyadiTxt",
+    "value": "self-lastname",
+    "type": "id"
+  },
+  {
+    "key": "uyeOlmadanDevamEtMagazadanTeslimatAlicininTelefonNumarasiTxt",
+    "value": "self-phone",
+    "type": "id"
+  },
+  {
+    "key": "uyeOlmadanDevamEtMagazadanTeslimatMagazaSecChk",
+    "value": ".click-collect__line",
+    "type": "css"
+  },
+  {
+    "key": "uyeOlmadanDevamEtMagazadanTeslimatFaAdTxt",
+    "value": "(//input[@name='billing_address[firstname]'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlmadanDevamEtMagazadanTeslimatFaSoyadTxt",
+    "value": "(//input[@name='billing_address[lastname]'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlmadanDevamEtMagazadanTeslimatFaCepTelefonuTxt",
+    "value": "(//input[@name='billing_address[telephone]'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlmadanDevamEtMagazadanTeslimatFaIlSecinizBox",
+    "value": "(//select[@id='region_billing_address'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlmadanDevamEtMagazadanTeslimatFaIlSecinizDrp",
+    "value": "(//select[@id='region_billing_address'])[2]/option[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlmadanDevamEtMagazadanTeslimatFaIlceSecinizBox",
+    "value": "(//select[@id='city_billing_address'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlmadanDevamEtMagazadanTeslimatFaIlceSecinizDrp",
+    "value": "(//select[@id='city_billing_address'])[2]/option[7]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlmadanDevamEtMagazadanTeslimatFaAdresTxt",
+    "value": "(//textarea[@name='billing_address[street]'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  }
+]

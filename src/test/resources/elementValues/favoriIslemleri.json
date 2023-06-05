@@ -1,0 +1,23 @@
+[
+
+  {
+  "key": "favorilereEkleBtn",
+  "value": "a[class='btn btn-link btn-block product-favorite add-wishlist']",
+  "type": "css"
+},
+  {
+    "key": "favorilereCikarBtn",
+    "value": "a[class='btn btn-link btn-block product-favorite add-wishlist']",
+    "type": "css"
+  },
+  {
+"key": "favorilerimBtn",
+"value": "//span[text()='Favorilerim']",
+"type": "xpath"
+},
+{
+"key": "favorilerdenCikarBtn",
+"value": ".product__actions>a>i",
+"type": "css"
+}
+]

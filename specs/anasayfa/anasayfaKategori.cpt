@@ -1,0 +1,128 @@
+Created by testinium on 12.01.2022
+
+This is a concept file with following syntax for each concept.
+# Anasayfada -Ayakkabı- kategori butonunun üzerinde beklenir.
+* waitPageLoadCompleteJs
+* "yukleniyorMessageCtrl" elementinin görünür olmadığı kontrol edilir
+* "ayakkabiKategoriBtn" hover element
+
+# Ayakkabı -Ayakkabı- hızlı menüsünün ilgili kategori butonlarıyla birlikte açılması kontrol edilir.
+* "ayakkabiKategoriHizliMenuContainerBarCtrl" elementinin görünür olması kontrol edilir "30"
+* "ayakkabiKategoriHizliMenudekiButonlarCtrl" elementinin görünür olması kontrol edilir "30"
+* "ayakkabiKategoriHizliMenudekiButonlarCtrl" elementinin tıklanabilir olması kontrol edilir "30"
+
+# Açılan -Ayakkabı- hızlı menüsünden herhangi bir kategoriye gidilir ve sayfaya yönlendirilme olup olmadığı kontrol edilir.
+* "ayakkabiKategoriHizliMenudekiButonlarCtrl" listesinden random olarak seçim yapılır
+* waitPageLoadCompleteJs
+* "yukleniyorMessageCtrl" elementinin görünür olmadığı kontrol edilir
+* "listelenenUrunlerContainerCtrl" elementinin görünür olması kontrol edilir
+* "fiyatAraligiFiltreEnAzFlogartTxt" elementinin görünür olması kontrol edilir
+* "fiyatAraligiFiltreEnCokFlogartTxt" elementinin görünür olması kontrol edilir
+
+
+# Anasayfada -Spor- kategori butonunun üzerinde beklenir.
+* waitPageLoadCompleteJs
+* "yukleniyorMessageCtrl" elementinin görünür olmadığı kontrol edilir
+* "sporKategoriBtn" hover element
+
+# Ayakkabı -Spor- hızlı menüsünün ilgili kategori butonlarıyla birlikte açılması kontrol edilir.
+* "sporKategoriHizliMenuContainerBarCtrl" elementinin görünür olması kontrol edilir "30"
+* "sporKategoriHizliMenudekiButonlarCtrl" elementinin görünür olması kontrol edilir "30"
+* "sporKategoriHizliMenudekiButonlarCtrl" elementinin tıklanabilir olması kontrol edilir "30"
+
+# Açılan -Spor- hızlı menüsünden herhangi bir kategoriye gidilir ve sayfaya yönlendirilme olup olmadığı kontrol edilir.
+* "sporKategoriHizliMenudekiButonlarCtrl" listesinden random olarak seçim yapılır
+* waitPageLoadCompleteJs
+* "yukleniyorMessageCtrl" elementinin görünür olmadığı kontrol edilir
+* "listelenenUrunlerContainerCtrl" elementinin görünür olması kontrol edilir
+* "fiyatAraligiFiltreEnAzFlogartTxt" elementinin görünür olması kontrol edilir
+* "fiyatAraligiFiltreEnCokFlogartTxt" elementinin görünür olması kontrol edilir
+
+# Anasayfada -Giyim- kategori butonunun üzerinde beklenir.
+* waitPageLoadCompleteJs
+* "yukleniyorMessageCtrl" elementinin görünür olmadığı kontrol edilir
+* "giyimKategoriBtn" hover element
+
+# Ayakkabı -Giyim- hızlı menüsünün ilgili kategori butonlarıyla birlikte açılması kontrol edilir.
+* "giyimKategoriHizliMenuContainerBarCtrl" elementinin görünür olması kontrol edilir "30"
+* "giyimKategoriHizliMenudekiButonlarCtrl" elementinin görünür olması kontrol edilir "30"
+* "giyimKategoriHizliMenudekiButonlarCtrl" elementinin tıklanabilir olması kontrol edilir "30"
+
+# Açılan -Giyim- hızlı menüsünden herhangi bir kategoriye gidilir ve sayfaya yönlendirilme olup olmadığı kontrol edilir.
+* "giyimKategoriHizliMenudekiButonlarCtrl" listesinden random olarak seçim yapılır
+* waitPageLoadCompleteJs
+* "yukleniyorMessageCtrl" elementinin görünür olmadığı kontrol edilir
+* "listelenenUrunlerContainerCtrl" elementinin görünür olması kontrol edilir
+* "fiyatAraligiFiltreEnAzFlogartTxt" elementinin görünür olması kontrol edilir
+* "fiyatAraligiFiltreEnCokFlogartTxt" elementinin görünür olması kontrol edilir
+
+# Anasayfada -Çanta ve Aksesuar- kategori butonunun üzerinde beklenir.
+* waitPageLoadCompleteJs
+* "yukleniyorMessageCtrl" elementinin görünür olmadığı kontrol edilir
+* "cantaVeAksesuarKategoriBtn" hover element
+
+# Ayakkabı -Çanta ve Aksesuar- hızlı menüsünün ilgili kategori butonlarıyla birlikte açılması kontrol edilir.
+* "cantaVeAksesuarKategoriHizliMenuContainerBarCtrl" elementinin görünür olması kontrol edilir "30"
+* "cantaVeAksesuarKategoriHizliMenudekiButonlarCtrl" elementinin görünür olması kontrol edilir "30"
+* "cantaVeAksesuarKategoriHizliMenudekiButonlarCtrl" elementinin tıklanabilir olması kontrol edilir "30"
+
+# Açılan -Çanta ve Aksesuar- hızlı menüsünden herhangi bir kategoriye gidilir ve sayfaya yönlendirilme olup olmadığı kontrol edilir.
+* "cantaVeAksesuarKategoriHizliMenudekiButonlarCtrl" listesinden random olarak seçim yapılır
+* waitPageLoadCompleteJs
+* "yukleniyorMessageCtrl" elementinin görünür olmadığı kontrol edilir
+* "listelenenUrunlerContainerCtrl" elementinin görünür olması kontrol edilir
+* "fiyatAraligiFiltreEnAzFlogartTxt" elementinin görünür olması kontrol edilir
+* "fiyatAraligiFiltreEnCokFlogartTxt" elementinin görünür olması kontrol edilir
+# Anasayfada -Markalar- kategori butonunun üzerinde beklenir.
+* waitPageLoadCompleteJs
+* "yukleniyorMessageCtrl" elementinin görünür olmadığı kontrol edilir
+* "markalarKategoriBtn" hover element
+
+# Ayakkabı -Markalar- hızlı menüsünün ilgili kategori butonlarıyla birlikte açılması kontrol edilir.
+* "markalarKategoriHizliMenuContainerBarCtrl" elementinin görünür olması kontrol edilir "30"
+* "markalarKategoriHizliMenudekiButonlarCtrl" elementinin görünür olması kontrol edilir "30"
+* "markalarKategoriHizliMenudekiButonlarCtrl" elementinin tıklanabilir olması kontrol edilir "30"
+
+# Açılan -Markalar- hızlı menüsünden herhangi bir kategoriye gidilir ve sayfaya yönlendirilme olup olmadığı kontrol edilir.
+* "markalarKategoriHizliMenudekiButonlarCtrl" listesinden random olarak seçim yapılır
+* waitPageLoadCompleteJs
+* "yukleniyorMessageCtrl" elementinin görünür olmadığı kontrol edilir
+* "listelenenUrunlerContainerCtrl" elementinin görünür olması kontrol edilir
+* "fiyatAraligiFiltreEnAzFlogartTxt" elementinin görünür olması kontrol edilir
+* "fiyatAraligiFiltreEnCokFlogartTxt" elementinin görünür olması kontrol edilir
+
+# Anasayfada -İndirim- kategori butonunun üzerinde beklenir.
+* waitPageLoadCompleteJs
+* "yukleniyorMessageCtrl" elementinin görünür olmadığı kontrol edilir
+* "indirimKategoriBtn" hover element
+
+# Ayakkabı -İndirim- hızlı menüsünün ilgili kategori butonlarıyla birlikte açılması kontrol edilir.
+* "indirimKategoriHizliMenuContainerBarCtrl" elementinin görünür olması kontrol edilir "30"
+* "indirimKategoriHizliMenudekiButonlarCtrl" elementinin görünür olması kontrol edilir "30"
+* "indirimKategoriHizliMenudekiButonlarCtrl" elementinin tıklanabilir olması kontrol edilir "30"
+
+# Açılan -İndirim- hızlı menüsünden herhangi bir kategoriye gidilir ve sayfaya yönlendirilme olup olmadığı kontrol edilir.
+* "indirimKategoriHizliMenudekiButonlarCtrl" listesinden random olarak seçim yapılır
+* waitPageLoadCompleteJs
+* "yukleniyorMessageCtrl" elementinin görünür olmadığı kontrol edilir
+* "listelenenUrunlerContainerCtrl" elementinin görünür olması kontrol edilir
+* "fiyatAraligiFiltreEnAzFlogartTxt" elementinin görünür olması kontrol edilir
+* "fiyatAraligiFiltreEnCokFlogartTxt" elementinin görünür olması kontrol edilir
+
+# Anasayfada -Tüm Kategoriler- kategori butonunun üzerinde beklenir.
+* waitPageLoadCompleteJs
+* "yukleniyorMessageCtrl" elementinin görünür olmadığı kontrol edilir
+* "tumKategorilerKategoriBtn" hover element
+
+# Ayakkabı -Tüm Kategoriler- hızlı menüsünün ilgili kategori butonlarıyla birlikte açılması kontrol edilir.
+* "tumKategorilerKategoriHizliMenuContainerBarCtrl" elementinin görünür olması kontrol edilir "30"
+* "tumKategorilerKategoriHizliMenudekiButonlarCtrl" elementinin görünür olması kontrol edilir "30"
+* "tumKategorilerKategoriHizliMenudekiButonlarCtrl" elementinin tıklanabilir olması kontrol edilir "30"
+
+# Açılan -Tüm Kategoriler- hızlı menüsünden herhangi bir kategoriye gidilir ve sayfaya yönlendirilme olup olmadığı kontrol edilir.
+* "tumKategorilerKategoriHizliMenudekiButonlarCtrl" listesinden random olarak seçim yapılır
+* waitPageLoadCompleteJs
+* "yukleniyorMessageCtrl" elementinin görünür olmadığı kontrol edilir
+* "listelenenUrunlerContainerCtrl" elementinin görünür olması kontrol edilir
+* "fiyatAraligiFiltreEnAzFlogartTxt" elementinin görünür olması kontrol edilir
+* "fiyatAraligiFiltreEnCokFlogartTxt" elementinin görünür olması kontrol edilir

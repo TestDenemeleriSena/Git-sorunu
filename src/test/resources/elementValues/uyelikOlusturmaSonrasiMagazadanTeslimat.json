@@ -1,0 +1,87 @@
+[
+  {
+    "key": "magazadanTeslimatBtn",
+    "value": "ship-shop-tab",
+    "type": "id"
+  },
+  {
+    "key": "uyelikOlusturmaSonrasiMagazadanTeslimatFaturaAdresiAdresBasligiTxt",
+    "value": "(//input[@name='billing_address[title_address]'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyelikOlusturmaSonrasiMagazadanTeslimatFaturaAdresiAdTxt",
+    "value": "(//input[@name='billing_address[firstname]'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyelikOlusturmaSonrasiMagazadanTeslimatFaturaAdresiSoyadTxt",
+    "value": "(//input[@name='billing_address[lastname]'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyelikOlusturmaSonrasiMagazadanTeslimatFaturaAdresiCepTelefonuTxt",
+    "value": "(//input[@name='billing_address[telephone]'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyelikOlusturmaSonrasiMagazadanTeslimatFaturaAdresiIlSecBox",
+    "value": "(//select[@id='region_billing_address'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyelikOlusturmaSonrasiMagazadanTeslimatFaturaAdresiIlSecDrp",
+    "value": "(//select[@id='region_billing_address'])[2]/option[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyelikOlusturmaSonrasiMagazadanTeslimatFaturaAdresiIlceSecBox",
+    "value": "(//select[@id='city_billing_address'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyelikOlusturmaSonrasiMagazadanTeslimatFaturaAdresiIlceSecDrp",
+    "value": "(//select[@id='city_billing_address'])[2]/option[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyelikOlusturmaSonrasiMagazadanTeslimatFaturaAdresiAdresTxt",
+    "value": "(//textarea[@name='billing_address[street]'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  }
+]

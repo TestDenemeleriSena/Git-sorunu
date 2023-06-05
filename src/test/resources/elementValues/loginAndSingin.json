@@ -1,0 +1,237 @@
+[
+
+  {
+    "key": "baslikgirisyapBtn",
+    "value": "a[data-test='open-to-login-form-2']",
+    "type": "css"
+  },
+  {
+    "key": "uyeOlbaslikBtn",
+    "value": "button[name='register']",
+    "type": "css"
+  },
+  {
+    "key": "GirisYapEpostaAdresiTxt",
+    "value": "email",
+    "type": "name"
+  },
+  {
+    "key": "GirisYapSifreTxt",
+    "value": "password",
+    "type": "name"
+  },
+  {
+    "key": "GirisYapEmailBtn",
+    "value": "(//button[@data-test='submit-login-form'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "GirisYapPasswordBtn",
+    "value": "(//button[@data-test='submit-login-form'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetBaslikBtn",
+    "value": "commerce-mini-cart-mobile",
+    "type": "id"
+  },
+  {
+    "key": "SepeteGitBtn",
+    "value": "(//a[@class='btn btn-lg btn-primary header-minibasket-button btn-block'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetOnaySonrasiEpostaAdresiTxt",
+    "value": "input-username",
+    "type": "id"
+  },
+  {
+    "key": "sepetOnaySonrasiSifreTxt",
+    "value": "input-login-password",
+    "type": "id"
+  },
+   {
+    "key": "sepetOnaySonrasiGirisYapBtn",
+    "value": "//button[text()='GİRİŞ YAP']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetOnaySonrasiCepTelTxt",
+    "value": "input[type='tel']",
+    "type": "css"
+  },
+  {
+    "key": "hizliMenuUyeOlBtn",
+    "value": "a[data-test='open-to-register-form']",
+    "type": "css"
+  },
+  {
+    "key": "HemenUyeOlAdinizTxt",
+    "value": "first_name",
+    "type": "name"
+  },
+  {
+    "key": "HemenUyeOlSoyadinizTxt",
+    "value": "last_name",
+    "type": "name"
+  },
+
+  {
+    "key": "HemenUyeOlEPostaAdresiTxt",
+    "value": "input[id='fl-lg-17']",
+    "type": "css"
+  },
+  {
+    "key": "HemenUyeOlSifreTxt",
+    "value": "input[id='fl-lg-24']",
+    "type": "css"
+  },
+  {
+    "key": "HemenUyeOlTelefonNumaranizTxt",
+    "value": "input[id='fl-lg-21']",
+    "type": "css"
+  },
+  {
+    "key": "HemenUyeOlCinsiyetKadinBox",
+    "value": "label[id='fl-lg-28']",
+    "type": "css"
+  },
+  {
+    "key": "HemenUyeOlUyelikSozlesmesiChk",
+    "value": "uyelik_sozlesmesi",
+    "type": "name"
+  },
+  {
+    "key": "HemenUyeOlAydinlatmaMetniChk",
+    "value": "subscribed_kvkk",
+    "type": "name"
+  },
+  {
+    "key": "HemenUyeOlUyeOlOnayBtn",
+    "value": "button[data-test='submit-register-button']",
+    "type": "css"
+  },
+  {
+    "key": "HemenUyeOlUyeOlOTPtxt",
+    "value": "input[aria-label='Please enter verification code. Digit 1']",
+    "type": "css"
+  },
+  {
+    "key": "uyeOlTelNoDogrulayinOTPTxt",
+    "value": "input[class='otp-content-code']",
+    "type": "css"
+  },
+  {
+    "key": "HemenUyeOlUyeOlOTPonaylaBtn",
+    "value": "button[data-test='submit-otp-button-verify']",
+    "type": "css"
+  },
+  {
+    "key": "HemenUyeOlUyeOlOTPonaylaBtn2",
+    "value": "btn-otp",
+    "type": "id"
+  },
+  {
+    "key": "HemenUyeOlBtn",
+    "value": "(//button[@class='btn btn-primary'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "sonradanHemenUyeOlAdinizTxt",
+    "value": "first_name",
+    "type": "name"
+  },
+  {
+    "key": "sonradanHemenUyeOlSoyadinizTxt",
+    "value": "last_name",
+    "type": "name"
+  },
+
+  {
+    "key": "sonradanHemenUyeOlEPostaAdresiTxt",
+    "value": "(//input[@id='input-email'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sonradanHemenUyeOlSifreTxt",
+    "value": "input-password",
+    "type": "id"
+  },
+  {
+    "key": "sonradanHemenUyeOlTelefonNumaranizTxt",
+    "value": "(//input[@type='tel'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sonradanHemenUyeOlCinsiyetKadinBox",
+    "value": "//span[text()='Kadın']",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlUyelikKosullariChk",
+    "value": "//*[text()=' kabul ediyorum.']",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlTercihlerimeOzelChk",
+    "value": "//*[text()='Tercihlerime özel ürün önerilmesini ve tanıtılmasını ']",
+    "type": "xpath"
+  },
+  {
+    "key": "sonradanHemenUyeOlAydinlatmaMetniChk",
+    "value": "(//label[@class='checkbox auth__checkbox'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "sonradanHemenUyeOlUyeOlOnayBtn",
+    "value": "button[class='btn btn-orange btn-block']",
+    "type": "css"
+  },
+
+  {
+    "key": "sonradanHemenUyeOlBtn",
+    "value": "button[class='btn btn-orange btn-block']",
+    "type": "css"
+  },
+  {
+    "key": "uyeOlmadanDevamEtBtn",
+    "value": "//span[@class='auth__link-value']",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlmadanDevamEtAdinizTxt",
+    "value": "input[id='input-firstname']",
+    "type": "css"
+  },
+  {
+    "key": "uyeOlmadanDevamEtSoyadinizTxt",
+    "value": "input[id='input-lastname']",
+    "type": "css"
+  },
+  {
+    "key": "uyeOlmadanDevamEtEPostaAdresinizTxt",
+    "value": "(//input[@id='input-email'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlmadanDevamEtSonrakiAdimaDevamEtBtn",
+    "value": "//button[text()='SONRAKİ ADIMA DEVAM ET']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetOnaylamaSonrasiUyeGirisiGirisYapBtnEmail",
+    "value": "button[data-test='submit-login-from-login-email-react']",
+    "type": "css"
+  },
+  {
+    "key": "sepetOnaylamaSonrasiUyeGirisiGirisYapBtnSifre",
+    "value": "button[data-test='submit-login-from-login-react']",
+    "type": "css"
+  },
+  {
+    "key": "favorilereEklemeSonrasiUyeOlBtn",
+    "value": "div[data-collapse='collapse-register']",
+    "type": "css"
+  }
+
+]

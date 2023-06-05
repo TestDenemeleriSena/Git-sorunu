@@ -1,0 +1,225 @@
+Created by onderyerim on 27.03.2023
+
+This is a concept file with following syntax for each concept.
+# Kolay iade linkine tıklanr.
+* "1" saniye bekle
+* "musteriHizmetleriKolayIade" elementinin görünür olması kontrol edilir "30"
+* "musteriHizmetleriKolayIade" elementinin tıklanabilir olması kontrol edilir "30"
+* "musteriHizmetleriKolayIade" elementine tıkla
+
+# Kolay iade sayfasında kontroller yapılır.
+* Şu anki url "lumberjack.com.tr/kolay-iade" içeriyor mu
+* "kolayIadeTitleCtrl" elementinin görünür olması kontrol edilir "30"
+
+# Siparişlerim butonuna tıklanır ve doğru yönlendirdiği kontrol edilir.
+* "kolayIadeSiparisiniKontrolEtBtn" elementinin görünür olması kontrol edilir "30"
+* "kolayIadeSiparisiniKontrolEtBtn" elementinin tıklanabilir olması kontrol edilir "30"
+* "kolayIadeSiparisiniKontrolEtBtn" elementine tıkla
+ "siparislerimSonSiparisDetaylarBtn" elementinin görünür olması kontrol edilir "30"
+
+# Sıkça Sorulan Sorular linkine tıklanır.
+* "musteriHizmetleriSikcaSorulanSorular" elementinin görünür olması kontrol edilir "30"
+* "musteriHizmetleriSikcaSorulanSorular" elementinin tıklanabilir olması kontrol edilir "30"
+* "musteriHizmetleriSikcaSorulanSorular" elementine tıkla
+
+# Sıkça Sorulan Sorular sayfasında kontroller yapılır.
+* "sikcaSorulanSorularKategoriBoxesCtrl" elementinin görünür olması kontrol edilir "30"
+* "sikcaSorulanSorularKategoriLinksCtrl" elementinin görünür olması kontrol edilir "30"
+
+# Siparişler kategorisinden ilk soruya tıklanır ve açıldığı kontrol edilir.
+* "sikcaSorulanSorularSiparislerKategori" elementinin tıklanabilir olması kontrol edilir "30"
+* "sikcaSorulanSorularSiparislerKategori" elementine tıkla
+* "sikcaSorulanSorularSiparislerKategoriBaslikCtrl" elementinin görünür olması kontrol edilir "30"
+
+# İade kategorisinden ilk soruya tıklanır ve açıldığı kontrol edilir.
+* "sikcaSorulanSorularIadeKategori" elementinin tıklanabilir olması kontrol edilir "30"
+* "sikcaSorulanSorularIadeKategori" elementine tıkla
+* "sikcaSorulanSorularIadeBaslikCtrl" elementinin görünür olması kontrol edilir "30"
+
+# Kargo ve Teslimat kategorisinden ilk soruya tıklanır ve açıldığı kontrol edilir.
+* "sikcaSorulanSorularKargoVeTeslimatKategori" elementinin tıklanabilir olması kontrol edilir "30"
+* "sikcaSorulanSorularKargoVeTeslimatKategori" elementine tıkla
+* "sikcaSorulanSorularKargoVeTeslimatBaslikCtrl" elementinin görünür olması kontrol edilir "30"
+
+# Hesabım kategorisinden ilk soruya tıklanır ve açıldığı kontrol edilir.
+* "sikcaSorulanSorularHesabimKategori" elementinin tıklanabilir olması kontrol edilir "30"
+* "sikcaSorulanSorularHesabimKategori" elementine tıkla
+* "sikcaSorulanSorularHesabimBaslikCtrl" elementinin görünür olması kontrol edilir "30"
+
+# İşlem Rehberi linkine tıklanır.
+* "musteriHizmetleriIslemRehberi" elementinin görünür olması kontrol edilir "30"
+* "musteriHizmetleriIslemRehberi" elementinin tıklanabilir olması kontrol edilir "30"
+* "musteriHizmetleriIslemRehberi" elementine tıkla
+
+# İşlem Rehberi sayfasında kontroller yapılır.
+* Şu anki url "lumberjack.com.tr/islem-rehberi" içeriyor mu
+* "islemRehberiGuideCtrl" elementinin görünür olması kontrol edilir "30"
+
+# Sipariş Takibi linkine tıklanır.
+* "musteriHizmetleriSiparisTakibi" elementinin görünür olması kontrol edilir "30"
+* "musteriHizmetleriSiparisTakibi" elementinin tıklanabilir olması kontrol edilir "30"
+* "musteriHizmetleriSiparisTakibi" elementine tıkla
+
+# Siparis Takibi sayfasında kontroller yapılır.
+* "siparisDurumuSorgulaCepTelTxtCtrl" elementinin görünür olması kontrol edilir "30"
+* "siparisDurumuSorgulaSiparisNoTxtCtrl" elementinin görünür olması kontrol edilir "30"
+* "siparisDurumuSorgulaDogrulamaKoduGonderBtnCtrl" elementinin görünür olması kontrol edilir "30"
+
+# Kişisel Verilerin Korunması linkine tıklanır.
+* "musteriHizmetleriKisiselVerilerinKorunmasi" elementinin görünür olması kontrol edilir "30"
+* "musteriHizmetleriKisiselVerilerinKorunmasi" elementinin tıklanabilir olması kontrol edilir "30"
+* "musteriHizmetleriKisiselVerilerinKorunmasi" elementine tıkla
+
+# Kişisel Verilerin Korunması sayfasında kontroller yapılır.
+* "kisiselVerilerinKorunmasiBarCtrl" elementinin görünür olması kontrol edilir "30"
+
+# Kurumsal linkine tıklanır.
+* "musteriHizmetleriKurumsal" elementinin görünür olması kontrol edilir "30"
+* "musteriHizmetleriKurumsal" elementinin tıklanabilir olması kontrol edilir "30"
+* "musteriHizmetleriKurumsal" elementine tıkla
+
+# Kurumsal sayfasında kontroller yapılır.
+* "kurumsalBarCtrl" elementinin görünür olması kontrol edilir "30"
+* "kurumsalMarkalarimizImgCtrl" elementinin görünür olması kontrol edilir "30"
+
+# İnsan Kaynakları linkine tıklanır.
+* "musteriHizmetleriInsanKaynaklari" elementinin görünür olması kontrol edilir "30"
+* "musteriHizmetleriInsanKaynaklari" elementinin tıklanabilir olması kontrol edilir "30"
+* "musteriHizmetleriInsanKaynaklari" elementine tıkla
+
+# İnsan Kaynakları sayfasında kontroller yapılır.
+* "insanKaynaklariBarCtrl" elementinin görünür olması kontrol edilir "30"
+* Şu anki url "flo.com.tr/page?url=ik-politikamiz" içeriyor mu
+
+# Turuncu Bağcıklar linkine tıklanır.
+* "musteriHizmetleriTuruncuBagciklar" elementinin görünür olması kontrol edilir "30"
+* "musteriHizmetleriTuruncuBagciklar" elementinin tıklanabilir olması kontrol edilir "30"
+* "musteriHizmetleriTuruncuBagciklar" elementine tıkla
+
+# Turuncu Bağcıklar sayfasında kontroller yapılır.
+* "turuncuBagciklarImgCtrl" elementinin görünür olması kontrol edilir "30"
+
+# Hemen Al butonuna tıklanır ve ürün listeleme sayfasına yönlendirdiği kontrol edilir.
+* "turuncuBagciklarHemenAlBtn" elementinin görünür olması kontrol edilir "30"
+* "turuncuBagciklarHemenAlBtn" elementinin tıklanabilir olması kontrol edilir "30"
+* "turuncuBagciklarHemenAlBtn" elementine tıkla
+* "urunListesiYenilemeSonrasiImg2" elementinin görünür olması kontrol edilir "30"
+
+# Flotomic linkine tıklanır.
+* "musteriHizmetleriFlotomic" elementinin görünür olması kontrol edilir "30"
+* "musteriHizmetleriFlotomic" elementinin tıklanabilir olması kontrol edilir "30"
+* "musteriHizmetleriFlotomic" elementine tıkla
+
+# Flotomic sayfasında kontroller yapılır.
+* "flotomicImgCtrl" elementinin görünür olması kontrol edilir "30"
+* Şu anki url "flotomic.com/" içeriyor mu
+
+# Mobil Uygulamalar linkine tıklanır.
+* "musteriHizmetleriMobilUygulamalar" elementinin görünür olması kontrol edilir "30"
+* "musteriHizmetleriMobilUygulamalar" elementinin tıklanabilir olması kontrol edilir "30"
+* "musteriHizmetleriMobilUygulamalar" elementine tıkla
+
+# Mobil Uygulamalar sayfasında kontroller yapılır.
+* "mobilUygulamalarImgCtrl" elementinin görünür olması kontrol edilir "30"
+* Şu anki url "flo.com.tr/mobil-uygulamalar" içeriyor mu
+
+# Kampanyalar linkine tıklanır.
+* "musteriHizmetleriKampanyalar" elementinin görünür olması kontrol edilir "30"
+* "musteriHizmetleriKampanyalar" elementinin tıklanabilir olması kontrol edilir "30"
+* "musteriHizmetleriKampanyalar" elementine tıkla
+
+# Kampanyalar sayfasında kontroller yapılır ve ürünleri görüntüle butonuna tıklanır.
+* "kampanyalarLink" elementinin görünür olması kontrol edilir "30"
+* "kampanyalarLink" elementinin tıklanabilir olması kontrol edilir "30"
+* "kampanyalarLink" elementine tıkla
+* "kampanyalarUrunleriInceleBtn" elementinin tıklanabilir olması kontrol edilir "30"
+* "kampanyalarUrunleriInceleBtn" elementine tıkla
+* "urunListesiYenilemeSonrasiImg2" elementinin görünür olması kontrol edilir "30"
+
+# İade ve Değişim linkine tıklanır.
+* "musteriHizmetleriIadeVeDegisim" elementinin görünür olması kontrol edilir "30"
+* "musteriHizmetleriIadeVeDegisim" elementinin tıklanabilir olması kontrol edilir "30"
+* "musteriHizmetleriIadeVeDegisim" elementine tıkla
+
+# Güvenli Alışveriş Kılavuzu linkine tıklanır.
+* "musteriHizmetleriGuvenliAlisverisKılavuzu" elementinin görünür olması kontrol edilir "30"
+* "musteriHizmetleriGuvenliAlisverisKılavuzu" elementinin tıklanabilir olması kontrol edilir "30"
+* "musteriHizmetleriGuvenliAlisverisKılavuzu" elementine tıkla
+
+# Güvenli Alışveriş Kılavuzu sayfasında kontroller yapılır.
+* Şu anki url "flo.com.tr/dolandiricilik-yontemleri" içeriyor mu
+* "guvenliAlisverisKilavuzuBarCtrl" elementinin görünür olması kontrol edilir "30"
+
+# Gizlilik ve Çerez Politikası linkine tıklanır.
+* "musteriHizmetleriGizlilikVeCerezPolitikasi" elementinin görünür olması kontrol edilir "30"
+* "musteriHizmetleriGizlilikVeCerezPolitikasi" elementinin tıklanabilir olması kontrol edilir "30"
+* "musteriHizmetleriGizlilikVeCerezPolitikasi" elementine tıkla
+
+# Gizlilik ve Çerez Politikası sayfasında kontroller yapılır.
+* Şu anki url "flo.com.tr/page?url=gizlilik-ve-cerez" içeriyor mu
+* "gizlilikVeCerezPolitikasiBarCtrl" elementinin görünür olması kontrol edilir "30"
+
+# Tıkla Gel Al linkine tıklanır.
+* "musteriHizmetleriTiklaGelAl" elementinin görünür olması kontrol edilir "30"
+* "musteriHizmetleriTiklaGelAl" elementinin tıklanabilir olması kontrol edilir "30"
+* "musteriHizmetleriTiklaGelAl" elementine tıkla
+
+# Tıkla Gel Al sayfasında kontroller yapılır.
+* Şu anki url "flo.com.tr/page?url=tikla-gel-al" içeriyor mu
+* "gizlilikVeCerezPolitikasiBarCtrl" elementinin görünür olması kontrol edilir "30"
+
+# Mağazalarımız linkine tıklanır.
+* "musteriHizmetleriMagazalarimiz" elementinin görünür olması kontrol edilir "30"
+* "musteriHizmetleriMagazalarimiz" elementinin tıklanabilir olması kontrol edilir "30"
+* "musteriHizmetleriMagazalarimiz" elementine tıkla
+
+# Mağazalarımız sayfasında searchten arama yapılır ve kontrol edilir.
+* "gizlilikVeCerezPolitikasiBarCtrl" elementinin görünür olması kontrol edilir "30"
+* "magazalarimizMagazaSearch" elementinin tıklanabilir olması kontrol edilir "30"
+* "magazalarimizMagazaSearch" elementine "marmara" değerini yaz
+* "magazalarimizMarmaraForumBaslikCtrl" elementinin görünür olması kontrol edilir "30"
+
+# Mağazalarımız sayfasında il ilçe girilir ve kontrol edilir.
+* "magazalarimizMagazaIlBox" elementinin tıklanabilir olması kontrol edilir "30"
+* "magazalarimizMagazaIlBox" elementine tıkla
+* "magazalarimizMagazaIlDrp" elementinin tıklanabilir olması kontrol edilir "30"
+* "magazalarimizMagazaIlDrp" elementine tıkla
+* "magazalarimizMagazaIlceBox" elementinin tıklanabilir olması kontrol edilir "30"
+* "magazalarimizMagazaIlceBox" elementine tıkla
+* "magazalarimizMagazaIlceDrp" elementinin tıklanabilir olması kontrol edilir "30"
+* "magazalarimizMagazaIlceDrp" elementine tıkla
+* "magazalarimizCapacityAVMBaslikCtrl" elementinin görünür olması kontrol edilir "30"
+
+# İletişim linkine tıklanır.
+* "musteriHizmetleriIletişim" elementinin görünür olması kontrol edilir "30"
+* "musteriHizmetleriIletişim" elementinin tıklanabilir olması kontrol edilir "30"
+* "musteriHizmetleriIletişim" elementine tıkla
+
+# İletişim sayfasında kontroller yapılır ve Hızlı Destek Asistanı Sohbeti Başlat butonu kontrol edilir.
+* Şu anki url "flo.com.tr/page?url=kurumsal-iletisim" içeriyor mu
+* "iletisimSohbetiBaşlatBtn" elementinin tıklanabilir olması kontrol edilir "30"
+* "iletisimSohbetiBaşlatBtn" elementine js ile tıkla
+* "iframeHizliDestekAsistaniTemplate" iframe'e girilir.
+* "floAsistanTemplateCtrl" elementinin görünür olması kontrol edilir "30"
+* iframe'den çıkılır.
+* "iletisimBiziAraBtn" elementinin görünür olması kontrol edilir "30"
+
+# Ayakkabı Bakım Rehberi linkine tıklanır.
+* "musteriHizmetleriAyakkabiBakimRehberi" elementinin görünür olması kontrol edilir "30"
+* "musteriHizmetleriAyakkabiBakimRehberi" elementinin tıklanabilir olması kontrol edilir "30"
+* "musteriHizmetleriAyakkabiBakimRehberi" elementine tıkla
+
+# Ayakkabı Bakım Rehberi sayfası kontrol edilir.
+* Şu anki url "flo.com.tr/kampanya/ayakkabi-bakimi" içeriyor mu
+* "ayakkabiBakimiDeriBakimUrunleriniKesfetBtn" elementinin görünür olması kontrol edilir "30"
+* "ayakkabiBakimiDeriBakimUrunleriniKesfetBtn" elementinin tıklanabilir olması kontrol edilir "30"
+* "ayakkabiBakimiDeriBakimUrunleriniKesfetBtn" elementine tıkla
+* "urunListesiYenilemeSonrasiImg2" elementinin görünür olması kontrol edilir "30"
+
+# Blog linkine tıklanır.
+* "musteriHizmetleriBlog" elementinin görünür olması kontrol edilir "30"
+* "musteriHizmetleriBlog" elementinin tıklanabilir olması kontrol edilir "30"
+* "musteriHizmetleriBlog" elementine tıkla
+
+# Blog sayfası kontrol edilir.
+* Şu anki url "blog.flo.com.tr/" içeriyor mu

@@ -1,0 +1,202 @@
+[
+  {
+    "key": "sepetimAlisveriseBaslaBtn",
+    "value": "//a[text()='ALIŞVERİŞE BAŞLA']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetUstBarAdresBaslikBtn",
+    "value": "//button[text()='Adres']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetUstBarOdemeBaslikBtn",
+    "value": "//button[text()='Ödeme']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetUstBarSepetBaslikBtn",
+    "value": "//button[text()='Sepetim']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepeteEkleBtn",
+    "value": "add2cart",
+    "type": "id"
+  },
+  {
+    "key": "sepetimBtn",
+    "value": "i[class='fas fa-shopping-bag']",
+    "type": "css"
+  },
+  {
+    "key": "sepeteGitBtn",
+    "value": "(//a[@class='btn btn-primary btn-sm btn-block'])[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "SepetimsepeteGitBtn",
+    "value": "(//a[@data-test='open-to-go-to-cart'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sepeteGitResimsizBtn",
+    "value": "(//a[text()='SEPETE GİT'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "sepettekiFazlaUrunuSilPopUpOnaylaBtn",
+    "value": "button[data-test='click-to-cart-page-delete-product-from-cart']",
+    "type": "css"
+  },
+  {
+    "key": "sepetimHizliMenuSepeteGitBtn",
+    "value": "//button[text()='SEPETE GİT']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetimHizliMenuSiparisiTamamlaBtn",
+    "value": "//button[text()='SİPARİŞİ TAMAMLA']",
+    "type": "xpath"
+  },
+  {
+    "key": "urunAdetArtirBtn",
+    "value": "button[data-test='checkout-product-card-plus-button']",
+    "type": "css"
+  },
+  {
+    "key": "urunAdetAzaltBtn",
+    "value": "button[data-test='checkout-product-card-negative-button']",
+    "type": "css"
+  },
+  {
+    "key": "sepetiOnaylaBtn",
+    "value": "//button[text()='SEPETİ ONAYLA']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepettekiUrunuSilBtn",
+    "value": "(//button[text()='Sil'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sepettekiIkınciUrunuSilBtn",
+    "value": "(//button[text()='Sil'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "sepettekiUcuncuUrunuSilBtn",
+    "value": "(//button[text()='Sil'])[3]",
+    "type": "css"
+  },
+  {
+    "key": "sepettekiUrunuSilPopUpOnaylaBtn",
+    "value": "button[data-test='click-to-cart-page-delete-product-from-cart']",
+    "type": "css"
+  },
+  {
+    "key": "sepettekiIkinciUrunuSilPopUpOnaylaBtn",
+    "value": "button[data-test='click-to-cart-page-delete-product-from-cart']",
+    "type": "css"
+  },
+  {
+    "key": "yukleniyorSepettekiFazlaUrunuSilPopupBtn",
+    "value": ".Toastify__toast-container.Toastify__toast-container--top-center",
+    "type": "css"
+  },
+  {
+    "key": "checkoutSepetBtn",
+    "value": "button[data-test='action-show-basket-from-checkout']",
+    "type": "css"
+  },
+  {
+    "key": "sepetiniArkadasinlaPaylasBtn",
+    "value": "div[class='share-basket__first-section--text']",
+    "type": "css"
+  },
+  {
+    "key": "sepetiniArkadasinlaPaylasUrl",
+    "value": "div[class='share-basket-popup__input']>input",
+    "type": "css"
+  },
+  {
+    "key": "sepetiniPaylasSepeteEkleBtn",
+    "value": "button[class='btn btn-orange btn-block share-basket__product-btn js-add-basket']",
+    "type": "css"
+  },
+  {
+    "key": "sepetiniPaylasMevcutSepetimleBirlestirBtn",
+    "value": "//div[text()='Mevcut Sepetimle Birleştir']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetiniPaylasSepetinizBasariliBirlestirildiBtn",
+    "value": "(//button[@class='close'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  }
+]

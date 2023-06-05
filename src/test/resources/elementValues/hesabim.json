@@ -1,0 +1,350 @@
+[
+  {
+    "key": "test",
+    "value": "img[class='header-logo']",
+    "type": "xpath"
+  },
+  {
+    "key": "BaslıkHesabimBtn",
+    "value": "a[data-test='open-to-edit-profile']",
+    "type": "css"
+  },
+  {
+    "key": "hesabimHizliMenuHesapBilgileriBtn",
+    "value": "(//a[@href='/customer/edit'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimHesapBilgileriAdinizChk",
+    "value": "(//label[@class='flo-checkbox'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimHesapBilgileriAdinizTxt",
+    "value": "firstname",
+    "type": "id"
+  },
+  {
+    "key": "hesabimHesapBilgileriSoyadinizChk",
+    "value": "(//label[@class='flo-checkbox'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimHesapBilgileriSoyadinizTxt",
+    "value": "lastname",
+    "type": "id"
+  },
+  {
+    "key": "hesabimHesapBilgileriCepTelefonuChk",
+    "value": "(//label[@class='flo-checkbox'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimHesapBilgileriCepTelefonuTxt",
+    "value": "phone",
+    "type": "id"
+  },
+  {
+    "key": "hesabimKullaniciBilgilerimCepTelefonuTxt",
+    "value": "input[id='phone']",
+    "type": "css"
+  },
+  {
+    "key": "hesabimHesapBilgileriCinsiyetErkChk",
+    "value": "(//label[@class='flo-radio mr-3'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimHesapBilgileriCinsiyetKdnChk",
+    "value": "(//label[@class='flo-radio mr-3'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimCepTelfGuncelleBtn",
+    "value": "button[class='btn btn-block btn-verify customer-phone-verify js-customer-verify-btn mt-5 pl-0 pr-0 active']",
+    "type": "css"
+  },
+  {
+    "key": "hesabimZorunluAlanlarDoldurulmalidirPopUpKapatBtn",
+    "value": "a[class='btn btn-primary btn-block']",
+    "type": "css"
+  },
+  {
+    "key": "hesabimKayitliKartlarimSilBtn",
+    "value": "a[class='delete-card my-data-click']",
+    "type": "css"
+  },
+  {
+    "key": "hesabimKayitliKartlarimSilOnayBtn",
+    "value": "a[class='btn btn-danger flo-remove-saved-card']",
+    "type": "css"
+  },
+  {
+    "key": "hesabimHesapBilgileriGuncelleBtn",
+    "value": "btn-customer-save",
+    "type": "id"
+  },
+  {
+    "key": "hesabimSifreGuncellemeEskiSifreTxt",
+    "value": "current_password",
+    "type": "name"
+  },
+  {
+    "key": "hesabimSifreGuncellemeYeniSifreTxt",
+    "value": "new-password",
+    "type": "id"
+  },
+  {
+    "key": "hesabimSifreGuncellemeYeniSifreTekrarTxt",
+    "value": "password_confirmation",
+    "type": "name"
+  },
+  {
+    "key": "hesabimGuncellemeDegistirBtn",
+    "value": "btn-password-save",
+    "type": "id"
+  },
+  {
+    "key": "hesabimuyelikSozlesmesiChk",
+    "value": "label[class='flo-checkbox color-inherit mt-3 fs-12']",
+    "type": "css"
+  },
+  {
+    "key": "hesabimuyelikSozlesmesiBtn",
+    "value": "a[href='/uyelik-sozlesmesi']",
+    "type": "css"
+  },
+   {
+    "key": "uyarıPopupBtn",
+    "value": "a[class='btn btn-primary btn-block']",
+    "type": "css"
+  },
+  {
+    "key": "successPopupTxt",
+    "value": "(//div[text()='Bilgileriniz başarıyla güncellenmistir.'])",
+    "type": "xpath"
+  },
+  {
+    "key": "successPopupOkBtn",
+    "value": "a[class='btn btn-primary btn-block']",
+    "type": "css"
+  },
+
+  {
+    "key": "hesabimHizliMenuFavorilerimBtn",
+    "value": "(//a[@href=\"/customer/wishlist\"])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimFavorileriSilBtn",
+    "value": "(//i[@class='fa fa-times'])[1]",
+    "type": "xpath"
+  },
+
+  {
+    "key": "hesabimSiparislerimBtn",
+    "value": "//*[text()=' Siparişlerim']",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimSiparisDetayBtn",
+    "value": "(//a[@class='btn orange'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimSiparisGeriDonBtn",
+    "value": "a[class='go-back-link not-js-back']",
+    "type": "css"
+  },
+  {
+    "key": "hesabimHizliMenuAdresBilgilerimBtn",
+    "value": "(//a[@href=\"/customer/address/index\"])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimYeniAdresEkleBtn",
+    "value": "a[class='btn outline-gray addAddressModal']",
+    "type": "css"
+  },
+  {
+    "key": "hesabimAdresBilgilerimYeniAdresEkleAdresBasligiTxt",
+    "value": "(//input[@name='title_address'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimYeniAdresEkleAdTxt",
+    "value": "(//input[@name='firstname'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimYeniAdresEkleSoyadTxt",
+    "value": "(//input[@name='lastname'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimYeniAdresEkleCepTelefonuTxt",
+    "value": "(//input[@name='telephone'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimYeniAdresEkleIlSecinizBox",
+    "value": "(//select[@id='region_'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimYeniAdresEkleIlSecinizDrp",
+    "value": "option[data-region-id='1537']",
+    "type": "css"
+  },
+  {
+    "key": "hesabimAdresBilgilerimYeniAdresEkleIlceSecinizBox",
+    "value": "(//select[@id='city_'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimYeniAdresEkleIlceSecinizDrp",
+    "value": "(//select[@id='city_'])[1]/option[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimYeniAdresEkleMahalleSecinizBox",
+    "value": "(//select[@id='district_'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimYeniAdresEkleMahalleSecinizDrp",
+    "value": "(//select[@id='district_'])[1]/option[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimYeniAdresEkleAdresTxt",
+    "value": "(//textarea[@name='street'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimYeniAdresEkleKaydetBtn",
+    "value": "(//button[@class='btn btn-black btn-lg text-white pl-5 pr-5'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimAdresDüzenleAdresBasligiTxt",
+    "value": "(//input[@name='title_address'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimAdresDüzenleAdTxt",
+    "value": "(//input[@name='firstname'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimAdresDüzenleSoyadTxt",
+    "value": "(//input[@name='lastname'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimAdresDüzenleCepTelefonuTxt",
+    "value": "(//input[@name='telephone'])[2]",
+    "type": "xpath"
+  },
+
+  {
+    "key": "hesabimAdresBilgilerimAdresDüzenleIlSecinizBox",
+    "value": "//select[@id='region_4']",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimAdresDüzenleIlSecinizDrp",
+    "value": "(//option[@data-region-id='1518'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimAdresDüzenleIlceSecinizBox",
+    "value": "//select[@id='city_4']",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimAdresDüzenleIlceSecinizDrp",
+    "value": "(//select[@id='city_4'])[1]/option[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimAdresDüzenleMahalleSecinizBox",
+    "value": "//select[@id='district_4']",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimAdresDüzenleMahalleSecinizDrp",
+    "value": "(//select[@id='district_4'])[1]/option[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimAdresDüzenleAdresTxt",
+    "value": "(//textarea[@name='street'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimAdresDüzenleKaydetBtn",
+    "value": "(//button[@class='btn btn-black btn-lg text-white pl-5 pr-5'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimAdresDüzenleBtn",
+    "value": "(//a[@class='editAddressModal'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimAdresSilBtn",
+    "value": "(//a[@class='deleteAddressModal'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimAdresBilgilerimAdresSilPopupBtn",
+    "value": "btnDeleteAddressModal",
+    "type": "id"
+  },
+  {
+    "key": "hesabimHizliMenuIndirimKuponlariBtn",
+    "value": "(//a[@href=\"/customer/coupons\"])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimIletisimTercihlerimBtn",
+    "value": "//*[text()='İletişim Tercihlerim']",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimIletisimTercihlerimEmailSmsChk",
+    "value": "input[type='checkbox']",
+    "type": "css"
+  },
+  {
+    "key": "hesabimHizliMenuYardimBtn",
+    "value": "(//a[@href=\"/ticket/list\"])[1]",
+    "type": "css"
+  },
+  {
+    "key": "hesabimCikisBtn",
+    "value": "(//a[@class='customer-logout'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimHesabiniziDogrulayinCepTlfTxt",
+    "value": "input[id='fl-lg-21']",
+    "type": "css"
+  },
+  {
+    "key": "hesabimIndirimKuponlariBtn",
+    "value": "//*[text()='İndirim Kuponları']",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabimIndirimKuponlariKoduKopyalaBtn",
+    "value": "a[class='btn btn-success copy-code']",
+    "type": "css"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  }
+]

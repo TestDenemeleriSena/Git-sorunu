@@ -1,0 +1,40 @@
+Created by onderyerim on 12.01.2022
+
+This is a concept file with following syntax for each concept.
+
+# Ana sayfadan Nps tıklanır.
+* "anasayfaNps" elementinin görünür olması kontrol edilir "30"
+* "anasayfaNps" elementinin tıklanabilir olması kontrol edilir "30"
+* "anasayfaNps" elementine tıkla
+
+# Nps Olumsuz seçilir.
+* "anasayfaNpsOlumsuzBtn" elementinin görünür olması kontrol edilir "30"
+* "anasayfaNpsOlumsuzBtn" elementinin tıklanabilir olması kontrol edilir "30"
+* "anasayfaNpsOlumsuzBtn" elementine tıkla
+
+# Nps Notr seçilir.
+* "anasayfaNpsNotrBtn" elementinin görünür olması kontrol edilir "30"
+* "anasayfaNpsNotrBtn" elementinin tıklanabilir olması kontrol edilir "30"
+* "anasayfaNpsNotrBtn" elementine tıkla
+
+# Nps Olumlu seçilir.
+* "anasayfaNpsOlumluBtn" elementinin görünür olması kontrol edilir "30"
+* "anasayfaNpsOlumluBtn" elementinin tıklanabilir olması kontrol edilir "30"
+* "anasayfaNpsOlumluBtn" elementine tıkla
+
+# Random olarak check box seçilir.
+* "anasayfaNpsCheckBox" elementinin görünür olması kontrol edilir "30"
+* "anasayfaNpsCheckBox" elementinin tıklanabilir olması kontrol edilir "30"
+* "anasayfaNpsCheckBox" listesinden random olarak seçim yapılır
+
+# Düşünce text alanına text yazılır.
+* "anasayfaNpsTextArea" elementinin tıklanabilir olması kontrol edilir "30"
+* "anasayfaNpsTextArea" elementine "test otomasyon" değerini yaz
+* "500" milisaniye bekle
+
+# Nps Gönder butonuna tıklanır.
+* "anasayfaNpsGonderBtn" elementinin tıklanabilir olması kontrol edilir "30"
+* "anasayfaNpsGonderBtn" elementine tıkla
+
+# Nps başarılı gönderildiği kontrol edilir.
+* "npsSuccessCtrl" elementinin görünür olması kontrol edilir "30"
