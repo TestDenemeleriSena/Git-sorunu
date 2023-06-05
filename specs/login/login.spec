@@ -8,4 +8,3 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 Scenario Heading
 ----------------
 * "3" saniye bekle
-* "5" saniye bekle
